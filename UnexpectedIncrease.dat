@@ -1,0 +1,1233 @@
+[UnexpectedIncrease Instances]
+Processing diags from [C:\Diags\Morrisons DeepDive\DD8]
+Build: Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+
+[1] WMM0194POS116-230328-090448  -> 5	[1679940463 - 1679989004] SellBagsAtFinalize: Y
+Total Instance, 5
+CapturedInLogs: 0
+Timestamp: 1679940463 - 1679989004, SellBagsAtFinalize: Y InstallDate: 1677710308
+----------------------------------
+Attendant Cleared, 3
+Shopper Cleared, 1
+----------------------------------
+SMScanAndBag,2
+SMFinish,1
+
+
+[2] WMM0194POS116-230328-094434  -> 5	[1679940463 - 1679989004] SellBagsAtFinalize: Y
+Total Instance, 5
+CapturedInLogs: 0
+Timestamp: 1679940463 - 1679989004, SellBagsAtFinalize: Y InstallDate: 1677710308
+----------------------------------
+Attendant Cleared, 3
+Shopper Cleared, 1
+----------------------------------
+SMScanAndBag,2
+SMFinish,1
+
+
+[3] WMM0194POS117-230310-120238  -> 135	[1677846744 - 1678448867] SellBagsAtFinalize: Y
+Total Instance, 135
+CapturedInLogs: 1
+Timestamp: 1677846744 - 1678448867, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 41
+Shopper Cleared, 82
+----------------------------------
+SMScanAndBag,31
+SMFinish,3
+SMUnknownItem,3
+SMWaitForApproval,3
+SMUnDeActivatedItemApproval,1
+
+
+[4] WMM0194POS117-230313-171119  -> 182	[1677846744 - 1678726433] SellBagsAtFinalize: Y
+Total Instance, 182
+CapturedInLogs: 2
+Timestamp: 1677846744 - 1678726433, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 54
+Shopper Cleared, 112
+----------------------------------
+SMScanAndBag,38
+SMFinish,4
+SMSecUnexpectedDecrease,3
+SMCashPayment,1
+SMWaitForApproval,4
+SMUnknownItem,3
+SMUnDeActivatedItemApproval,1
+
+
+[5] WMM0194POS117-230317-115540  -> 230	[1677846744 - 1679053470] SellBagsAtFinalize: Y
+Total Instance, 230
+CapturedInLogs: 2
+Timestamp: 1677846744 - 1679053470, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 71
+Shopper Cleared, 138
+----------------------------------
+SMScanAndBag,47
+SMFinish,8
+SMSecUnexpectedDecrease,6
+SMUnknownItem,3
+SMProduceFavorites,1
+SMCashPayment,1
+SMWaitForApproval,4
+SMUnDeActivatedItemApproval,1
+
+
+[6] WMM0194POS117-230321-082529  -> 56	[1679145888 - 1679384166] SellBagsAtFinalize: Y
+Total Instance, 56
+CapturedInLogs: 1
+Timestamp: 1679145888 - 1679384166, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 16
+Shopper Cleared, 34
+----------------------------------
+SMScanAndBag,4
+SMFinish,3
+SMProcessing,2
+SMSecUnexpectedDecrease,3
+SMCustomMessage,1
+SMBagAndEAS,1
+SMCashPayment,1
+SMWaitForApproval,1
+
+
+[7] WMM0194POS117-230323-030815  -> 94	[1679145888 - 1679522296] SellBagsAtFinalize: Y
+Total Instance, 94
+CapturedInLogs: 0
+Timestamp: 1679145888 - 1679522296, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 32
+Shopper Cleared, 52
+----------------------------------
+SMScanAndBag,17
+SMFinish,6
+SMSecUnexpectedDecrease,3
+SMProcessing,2
+SMCustomMessage,1
+SMBagAndEAS,1
+SMCashPayment,1
+SMWaitForApproval,1
+
+
+[8] WMM0194POS117-230323-184848  -> 108	[1679145888 - 1679594682] SellBagsAtFinalize: Y
+Total Instance, 108
+CapturedInLogs: 0
+Timestamp: 1679145888 - 1679594682, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 36
+Shopper Cleared, 58
+----------------------------------
+SMScanAndBag,20
+SMFinish,6
+SMSecUnexpectedDecrease,3
+SMProcessing,3
+SMCustomMessage,1
+SMBagAndEAS,1
+SMCashPayment,1
+SMWaitForApproval,1
+
+
+[9] WMM0194POS117-230323-230114  -> 109	[1679145888 - 1679611945] SellBagsAtFinalize: Y
+Total Instance, 109
+CapturedInLogs: 0
+Timestamp: 1679145888 - 1679611945, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 36
+Shopper Cleared, 59
+----------------------------------
+SMScanAndBag,20
+SMFinish,6
+SMSecUnexpectedDecrease,3
+SMProcessing,3
+SMCustomMessage,1
+SMBagAndEAS,1
+SMCashPayment,1
+SMWaitForApproval,1
+
+
+[10] WMM0194POS117-230325-075908  -> 133	[1679145888 - 1679730753] SellBagsAtFinalize: Y
+Total Instance, 133
+CapturedInLogs: 2
+Timestamp: 1679145888 - 1679730753, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 46
+Shopper Cleared, 70
+----------------------------------
+SMScanAndBag,27
+SMThankYou,1
+SMFinish,6
+SMSecUnexpectedDecrease,3
+SMProcessing,3
+SMCashPayment,2
+SMWaitForApproval,2
+SMCustomMessage,1
+SMBagAndEAS,1
+
+
+[11] WMM0194POS117-230325-113012  -> 139	[1679145888 - 1679742270] SellBagsAtFinalize: Y
+Total Instance, 139
+CapturedInLogs: 4
+Timestamp: 1679145888 - 1679742270, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 47
+Shopper Cleared, 73
+----------------------------------
+SMScanAndBag,28
+SMThankYou,1
+SMFinish,6
+SMSecUnexpectedDecrease,3
+SMProcessing,3
+SMCashPayment,2
+SMWaitForApproval,2
+SMCustomMessage,1
+SMBagAndEAS,1
+
+
+[12] WMM0194POS117-230328-075648  -> 168	[1679145888 - 1679985854] SellBagsAtFinalize: Y
+Total Instance, 168
+CapturedInLogs: 2
+Timestamp: 1679145888 - 1679985854, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 55
+Shopper Cleared, 90
+----------------------------------
+SMScanAndBag,33
+SMThankYou,1
+SMFinish,6
+SMProcessing,4
+SMSecUnexpectedDecrease,3
+SMCashPayment,3
+SMWaitForApproval,3
+SMCustomMessage,1
+SMBagAndEAS,1
+
+
+[13] WMM0194POS118-230315-080302  -> 149	[1678023245 - 1678866706] SellBagsAtFinalize: Y
+Total Instance, 149
+CapturedInLogs: 0
+Timestamp: 1678023245 - 1678866706, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 51
+Shopper Cleared, 83
+----------------------------------
+SMScanAndBag,28
+SMThankYou,4
+SMFinish,3
+SMCashPayment,5
+SMSecUnexpectedDecrease,6
+SMProcessing,1
+SMItemQuantityExceeded,1
+SMWaitForApproval,1
+SMCardProcessing,1
+SMBagAndEAS,1
+
+
+[14] WMM0194POS118-230315-174101  -> 162	[1678023245 - 1678901759] SellBagsAtFinalize: Y
+Total Instance, 162
+CapturedInLogs: 0
+Timestamp: 1678023245 - 1678901759, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 54
+Shopper Cleared, 92
+----------------------------------
+SMScanAndBag,30
+SMThankYou,4
+SMFinish,3
+SMCashPayment,6
+SMSecUnexpectedDecrease,6
+SMProcessing,1
+SMItemQuantityExceeded,1
+SMWaitForApproval,1
+SMCardProcessing,1
+SMBagAndEAS,1
+
+
+[15] WMM0194POS118-230316-162015  -> 186	[1678023245 - 1678983349] SellBagsAtFinalize: Y
+Total Instance, 186
+CapturedInLogs: 0
+Timestamp: 1678023245 - 1678983349, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 62
+Shopper Cleared, 101
+----------------------------------
+SMScanAndBag,34
+SMThankYou,4
+SMFinish,5
+SMCashPayment,6
+SMSecUnexpectedDecrease,8
+SMProcessing,1
+SMItemQuantityExceeded,1
+SMWaitForApproval,1
+SMCardProcessing,1
+SMBagAndEAS,1
+
+
+[16] WMM0194POS118-230316-172547  -> 186	[1678023245 - 1678987176] SellBagsAtFinalize: Y
+Total Instance, 186
+CapturedInLogs: 0
+Timestamp: 1678023245 - 1678987176, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 62
+Shopper Cleared, 101
+----------------------------------
+SMScanAndBag,34
+SMThankYou,4
+SMFinish,5
+SMCashPayment,6
+SMSecUnexpectedDecrease,8
+SMProcessing,1
+SMItemQuantityExceeded,1
+SMWaitForApproval,1
+SMCardProcessing,1
+SMBagAndEAS,1
+
+
+[17] WMM0194POS118-230318-135013  -> 220	[1678023245 - 1679147021] SellBagsAtFinalize: Y
+Total Instance, 220
+CapturedInLogs: 0
+Timestamp: 1678023245 - 1679147021, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 78
+Shopper Cleared, 117
+----------------------------------
+SMScanAndBag,44
+SMThankYou,4
+SMFinish,5
+SMCashPayment,6
+SMUnknownItem,3
+SMSecUnexpectedDecrease,8
+SMProcessing,2
+SMItemQuantityExceeded,1
+SMWaitForApproval,2
+SMCardProcessing,1
+SMBagAndEAS,1
+SMTimeRestrictedItem,1
+
+
+[18] WMM0194POS118-230323-031308  -> 34	[1679409274 - 1679522195] SellBagsAtFinalize: Y
+Total Instance, 34
+CapturedInLogs: 1
+Timestamp: 1679409274 - 1679522195, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 9
+Shopper Cleared, 16
+----------------------------------
+SMScanAndBag,5
+SMThankYou,1
+SMSecUnexpectedDecrease,1
+SMFinish,2
+
+
+[19] WMM0194POS118-230325-112923  -> 70	[1679409274 - 1679742086] SellBagsAtFinalize: Y
+Total Instance, 70
+CapturedInLogs: 1
+Timestamp: 1679409274 - 1679742086, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 18
+Shopper Cleared, 36
+----------------------------------
+SMScanAndBag,11
+SMThankYou,1
+SMSecUnexpectedDecrease,2
+SMProcessing,1
+SMFinish,2
+SMWaitForApproval,1
+
+
+[20] WMM0194POS118-230327-160455  -> 106	[1679409274 - 1679929099] SellBagsAtFinalize: Y
+Total Instance, 106
+CapturedInLogs: 0
+Timestamp: 1679409274 - 1679929099, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 32
+Shopper Cleared, 51
+----------------------------------
+SMScanAndBag,18
+SMThankYou,2
+SMSecUnexpectedDecrease,4
+SMFinish,2
+SMProcessing,2
+SMWaitForApproval,2
+SMUnknownItem,1
+SMCashPayment,1
+
+
+[21] WMM0194POS119-230317-122624  -> 149	[1678025499 - 1679055467] SellBagsAtFinalize: Y
+Total Instance, 149
+CapturedInLogs: 0
+Timestamp: 1678025499 - 1679055467, SellBagsAtFinalize: Y InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 30
+Shopper Cleared, 105
+----------------------------------
+SMScanAndBag,17
+SMTakeReceipt,2
+SMFinish,2
+SMSecUnexpectedDecrease,4
+SMWaitForApproval,3
+SMProcessing,1
+SMInsertCoupon,1
+
+
+[22] WMM0194POS119-230317-154333  -> 151	[1678025499 - 1679067176] SellBagsAtFinalize: Y
+Total Instance, 151
+CapturedInLogs: 0
+Timestamp: 1678025499 - 1679067176, SellBagsAtFinalize: Y InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 30
+Shopper Cleared, 107
+----------------------------------
+SMScanAndBag,17
+SMTakeReceipt,2
+SMFinish,2
+SMSecUnexpectedDecrease,4
+SMWaitForApproval,3
+SMProcessing,1
+SMInsertCoupon,1
+
+
+[23] WMM0194POS119-230323-031039  -> 227	[1678025499 - 1679521687] SellBagsAtFinalize: Y
+Total Instance, 227
+CapturedInLogs: 1
+Timestamp: 1678025499 - 1679521687, SellBagsAtFinalize: Y InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 57
+Shopper Cleared, 149
+----------------------------------
+SMScanAndBag,35
+SMTakeReceipt,3
+SMFinish,2
+SMSecUnexpectedDecrease,6
+SMWaitForApproval,5
+SMProduceFavorites,1
+SMUnknownItem,2
+SMProcessing,2
+SMInsertCoupon,1
+
+
+[24] WMM0194POS119-230325-074426  -> 10	[1679682740 - 1679729614] SellBagsAtFinalize: Y
+Total Instance, 10
+CapturedInLogs: 1
+Timestamp: 1679682740 - 1679729614, SellBagsAtFinalize: Y InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 3
+Shopper Cleared, 3
+----------------------------------
+SMScanAndBag,1
+SMSecUnexpectedDecrease,1
+SMWaitForApproval,1
+
+
+[25] WMM0194POS119-230325-113405  -> 15	[1679682740 - 1679741604] SellBagsAtFinalize: Y
+Total Instance, 15
+CapturedInLogs: 0
+Timestamp: 1679682740 - 1679741604, SellBagsAtFinalize: Y InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 6
+Shopper Cleared, 5
+----------------------------------
+SMScanAndBag,4
+SMSecUnexpectedDecrease,1
+SMWaitForApproval,1
+
+
+[26] WMM0194POS119-230327-045913  -> 37	[1679682740 - 1679856637] SellBagsAtFinalize: Y
+Total Instance, 37
+CapturedInLogs: 0
+Timestamp: 1679682740 - 1679856637, SellBagsAtFinalize: Y InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 15
+Shopper Cleared, 16
+----------------------------------
+SMScanAndBag,9
+SMSecUnexpectedDecrease,3
+SMTakeReceipt,1
+SMWaitForApproval,2
+
+
+[27] WMM0194POS119-230327-051355  -> 37	[1679682740 - 1679856637] SellBagsAtFinalize: Y
+Total Instance, 37
+CapturedInLogs: 0
+Timestamp: 1679682740 - 1679856637, SellBagsAtFinalize: Y InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 15
+Shopper Cleared, 16
+----------------------------------
+SMScanAndBag,9
+SMSecUnexpectedDecrease,3
+SMTakeReceipt,1
+SMWaitForApproval,2
+
+
+[28] WMM0194POS119-230328-081418  -> 56	[1679682740 - 1679987328] SellBagsAtFinalize: Y
+Total Instance, 56
+CapturedInLogs: 5
+Timestamp: 1679682740 - 1679987328, SellBagsAtFinalize: Y InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 22
+Shopper Cleared, 27
+----------------------------------
+SMScanAndBag,14
+SMTakeReceipt,1
+SMSecUnexpectedDecrease,4
+SMWaitForApproval,2
+SMUnknownItem,1
+
+
+[29] WMM0194POS120-230315-123358  -> 115	[1678121980 - 1678883328] SellBagsAtFinalize: Y
+Total Instance, 115
+CapturedInLogs: 2
+Timestamp: 1678121980 - 1678883328, SellBagsAtFinalize: Y InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 34
+Shopper Cleared, 67
+----------------------------------
+SMScanAndBag,23
+SMTakeReceipt,1
+SMThankYou,1
+SMFinish,1
+SMSecUnexpectedDecrease,5
+SMCardProcessing,1
+SMUnknownItem,1
+SMWaitForApproval,1
+
+
+[30] WMM0194POS120-230316-110657  -> 125	[1678121980 - 1678964195] SellBagsAtFinalize: Y
+Total Instance, 125
+CapturedInLogs: 0
+Timestamp: 1678121980 - 1678964195, SellBagsAtFinalize: Y InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 37
+Shopper Cleared, 74
+----------------------------------
+SMScanAndBag,24
+SMTakeReceipt,1
+SMThankYou,2
+SMFinish,2
+SMSecUnexpectedDecrease,5
+SMCardProcessing,1
+SMUnknownItem,1
+SMWaitForApproval,1
+
+
+[31] WMM0194POS120-230323-030534  -> 242	[1678121980 - 1679521683] SellBagsAtFinalize: Y
+Total Instance, 242
+CapturedInLogs: 1
+Timestamp: 1678121980 - 1679521683, SellBagsAtFinalize: Y InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 66
+Shopper Cleared, 154
+----------------------------------
+SMScanAndBag,42
+SMTakeReceipt,3
+SMThankYou,2
+SMFinish,4
+SMSecUnexpectedDecrease,7
+SMWaitForApproval,4
+SMCardProcessing,1
+SMUnknownItem,1
+SMProcessing,1
+SMTimeRestrictedItem,1
+
+
+[32] WMM0194POS120-230323-230507  -> 2	[1679591259 - 1679611964] SellBagsAtFinalize: Y
+Total Instance, 2
+CapturedInLogs: 0
+Timestamp: 1679591259 - 1679611964, SellBagsAtFinalize: Y InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 1
+Shopper Cleared, 1
+----------------------------------
+SMScanAndBag,1
+
+
+[33] WMM0194POS120-230325-074518  -> 19	[1679591259 - 1679729829] SellBagsAtFinalize: Y
+Total Instance, 19
+CapturedInLogs: 0
+Timestamp: 1679591259 - 1679729829, SellBagsAtFinalize: Y InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 3
+Shopper Cleared, 15
+----------------------------------
+SMScanAndBag,1
+SMFinish,2
+
+
+[34] WMM0194POS120-230325-112856  -> 26	[1679591259 - 1679742217] SellBagsAtFinalize: Y
+Total Instance, 26
+CapturedInLogs: 4
+Timestamp: 1679591259 - 1679742217, SellBagsAtFinalize: Y InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 4
+Shopper Cleared, 18
+----------------------------------
+SMScanAndBag,1
+SMFinish,2
+SMSecUnexpectedDecrease,1
+
+
+[35] WMM0194POS120-230325-164413  -> 30	[1679591259 - 1679762024] SellBagsAtFinalize: Y
+Total Instance, 30
+CapturedInLogs: 1
+Timestamp: 1679591259 - 1679762024, SellBagsAtFinalize: Y InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 5
+Shopper Cleared, 21
+----------------------------------
+SMScanAndBag,1
+SMFinish,2
+SMSecUnexpectedDecrease,1
+SMUnknownItem,1
+
+
+[36] WMM0194POS121-230323-030805  -> 253	[1678707858 - 1679521674] SellBagsAtFinalize: Y
+Total Instance, 253
+CapturedInLogs: 0
+Timestamp: 1678707858 - 1679521674, SellBagsAtFinalize: Y InstallDate: 1677625132
+----------------------------------
+Attendant Cleared, 69
+Shopper Cleared, 158
+----------------------------------
+SMScanAndBag,40
+SMTakeReceipt,2
+SMFinish,10
+SMSecUnexpectedDecrease,7
+SMCardProcessing,3
+SMWaitForApproval,3
+SMUnknownItem,2
+SMTimeRestrictedItem,1
+SMGiftCardPayment,1
+
+
+[37] WMM0194POS121-230323-230400  -> 10	[1679592267 - 1679611929] SellBagsAtFinalize: Y
+Total Instance, 10
+CapturedInLogs: 5
+Timestamp: 1679592267 - 1679611929, SellBagsAtFinalize: Y InstallDate: 1677625132
+----------------------------------
+Attendant Cleared, 5
+Shopper Cleared, 5
+----------------------------------
+SMScanAndBag,3
+SMUnknownItem,1
+SMWaitForApproval,1
+
+
+[38] WMM0194POS121-230325-074326  -> 40	[1679592267 - 1679729997] SellBagsAtFinalize: Y
+Total Instance, 40
+CapturedInLogs: 2
+Timestamp: 1679592267 - 1679729997, SellBagsAtFinalize: Y InstallDate: 1677625132
+----------------------------------
+Attendant Cleared, 10
+Shopper Cleared, 27
+----------------------------------
+SMScanAndBag,4
+SMTakeReceipt,1
+SMThankYou,1
+SMFinish,2
+SMUnknownItem,1
+SMWaitForApproval,1
+
+
+[39] WMM0194POS121-230325-112730  -> 44	[1679592267 - 1679742246] SellBagsAtFinalize: Y
+Total Instance, 44
+CapturedInLogs: 0
+Timestamp: 1679592267 - 1679742246, SellBagsAtFinalize: Y InstallDate: 1677625132
+----------------------------------
+Attendant Cleared, 12
+Shopper Cleared, 28
+----------------------------------
+SMScanAndBag,5
+SMTakeReceipt,1
+SMThankYou,1
+SMFinish,2
+SMUnknownItem,1
+SMWaitForApproval,1
+SMSecUnexpectedDecrease,1
+
+
+[40] WMM0194POS137-230316-200934  -> 231	[1678256979 - 1678997130] SellBagsAtFinalize: Y
+Total Instance, 231
+CapturedInLogs: 0
+Timestamp: 1678256979 - 1678997130, SellBagsAtFinalize: Y InstallDate: 1677625221
+----------------------------------
+Attendant Cleared, 69
+Shopper Cleared, 136
+----------------------------------
+SMScanAndBag,45
+SMTakeReceipt,1
+SMSecUnexpectedDecrease,11
+SMFinish,3
+SMProcessing,3
+SMWaitForApproval,3
+SMProduceFavorites,1
+SMCustomMessage,1
+SMVoucherPayment,1
+
+
+[41] WMM0194POS137-230317-175614  -> 253	[1678256979 - 1679075008] SellBagsAtFinalize: Y
+Total Instance, 253
+CapturedInLogs: 0
+Timestamp: 1678256979 - 1679075008, SellBagsAtFinalize: Y InstallDate: 1677625221
+----------------------------------
+Attendant Cleared, 80
+Shopper Cleared, 147
+----------------------------------
+SMScanAndBag,55
+SMTakeReceipt,1
+SMSecUnexpectedDecrease,11
+SMFinish,3
+SMProcessing,4
+SMWaitForApproval,3
+SMProduceFavorites,1
+SMCustomMessage,1
+SMVoucherPayment,1
+
+
+[42] WMM0194POS137-230321-082037  -> 28	[1679244220 - 1679386564] SellBagsAtFinalize: Y
+Total Instance, 28
+CapturedInLogs: 2
+Timestamp: 1679244220 - 1679386564, SellBagsAtFinalize: Y InstallDate: 1677625221
+----------------------------------
+Attendant Cleared, 11
+Shopper Cleared, 15
+----------------------------------
+SMScanAndBag,6
+SMProcessing,1
+SMFinish,2
+SMTakeReceipt,1
+SMUnknownItem,1
+
+
+[43] WMM0194POS137-230323-030412  -> 79	[1679244220 - 1679522286] SellBagsAtFinalize: Y
+Total Instance, 79
+CapturedInLogs: 2
+Timestamp: 1679244220 - 1679522286, SellBagsAtFinalize: Y InstallDate: 1677625221
+----------------------------------
+Attendant Cleared, 26
+Shopper Cleared, 48
+----------------------------------
+SMScanAndBag,19
+SMTakeReceipt,1
+SMProcessing,1
+SMFinish,2
+SMUnknownItem,2
+SMSecUnexpectedDecrease,1
+
+
+[44] WMM0194POS137-230326-125300  -> 197	[1679244220 - 1679830711] SellBagsAtFinalize: Y
+Total Instance, 197
+CapturedInLogs: 0
+Timestamp: 1679244220 - 1679830711, SellBagsAtFinalize: Y InstallDate: 1677625221
+----------------------------------
+Attendant Cleared, 61
+Shopper Cleared, 123
+----------------------------------
+SMScanAndBag,40
+SMTakeReceipt,4
+SMFinish,7
+SMProcessing,2
+SMProduceFavorites,3
+SMUnknownItem,3
+SMSystemMessage4,1
+SMSecUnexpectedDecrease,1
+
+
+[45] WMM0194POS138-230311-140006  -> 373	[1677777516 - 1678542874] SellBagsAtFinalize: Y
+Total Instance, 373
+CapturedInLogs: 1
+Timestamp: 1677777516 - 1678542874, SellBagsAtFinalize: Y InstallDate: 1677710225
+----------------------------------
+Attendant Cleared, 170
+Shopper Cleared, 152
+----------------------------------
+SMScanAndBag,110
+SMThankYou,8
+SMSecUnexpectedDecrease,19
+SMFinish,10
+SMWaitForApproval,7
+SMUnknownItem,6
+SMItemQuantityExceeded,2
+SMProduceFavorites,3
+SMBagAndEAS,2
+SMProcessing,2
+SMVoucherPayment,1
+
+
+[46] WMM0194POS138-230314-175932  -> 68	[1678691609 - 1678816177] SellBagsAtFinalize: Y
+Total Instance, 68
+CapturedInLogs: 1
+Timestamp: 1678691609 - 1678816177, SellBagsAtFinalize: Y InstallDate: 1677710225
+----------------------------------
+Attendant Cleared, 27
+Shopper Cleared, 36
+----------------------------------
+SMScanAndBag,16
+SMFinish,5
+SMSecUnexpectedDecrease,2
+SMWaitForApproval,2
+SMCashPayment,1
+SMProcessing,1
+
+
+[47] WMM0194POS138-230318-064156  -> 185	[1678691609 - 1679120301] SellBagsAtFinalize: Y
+Total Instance, 185
+CapturedInLogs: 1
+Timestamp: 1678691609 - 1679120301, SellBagsAtFinalize: Y InstallDate: 1677710225
+----------------------------------
+Attendant Cleared, 66
+Shopper Cleared, 104
+----------------------------------
+SMScanAndBag,43
+SMThankYou,1
+SMFinish,8
+SMSecUnexpectedDecrease,5
+SMItemQuantityExceeded,3
+SMWaitForApproval,3
+SMCashPayment,1
+SMBagAndEAS,1
+SMProcessing,1
+
+
+[48] WMM0194POS138-230323-030542  -> 31	[1679486048 - 1679534139] SellBagsAtFinalize: Y
+Total Instance, 31
+CapturedInLogs: 0
+Timestamp: 1679486048 - 1679534139, SellBagsAtFinalize: Y InstallDate: 1677710225
+----------------------------------
+Attendant Cleared, 12
+Shopper Cleared, 18
+----------------------------------
+SMScanAndBag,8
+SMFinish,1
+SMUnknownItem,1
+SMSecUnexpectedDecrease,1
+SMWaitForApproval,1
+
+
+[49] WMM0194POS138-230323-094938  -> 33	[1679486048 - 1679564501] SellBagsAtFinalize: Y
+Total Instance, 33
+CapturedInLogs: 0
+Timestamp: 1679486048 - 1679564501, SellBagsAtFinalize: Y InstallDate: 1677710225
+----------------------------------
+Attendant Cleared, 14
+Shopper Cleared, 18
+----------------------------------
+SMScanAndBag,10
+SMFinish,1
+SMUnknownItem,1
+SMSecUnexpectedDecrease,1
+SMWaitForApproval,1
+
+
+[50] WMM0194POS138-230323-225854  -> 85	[1679486048 - 1679611939] SellBagsAtFinalize: Y
+Total Instance, 85
+CapturedInLogs: 0
+Timestamp: 1679486048 - 1679611939, SellBagsAtFinalize: Y InstallDate: 1677710225
+----------------------------------
+Attendant Cleared, 34
+Shopper Cleared, 47
+----------------------------------
+SMScanAndBag,22
+SMFinish,4
+SMSecUnexpectedDecrease,3
+SMCustomMessage,1
+SMWaitForApproval,3
+SMUnknownItem,1
+
+
+[51] WMM0015POS116-230309-192610  -> 194	[1677519485 - 1678389440] SellBagsAtFinalize: N
+Total Instance, 194
+CapturedInLogs: 4
+Timestamp: 1677519485 - 1678389440, SellBagsAtFinalize: N InstallDate: 1677710453
+----------------------------------
+Attendant Cleared, 58
+Shopper Cleared, 111
+----------------------------------
+SMScanAndBag,30
+SMThankYou,4
+SMFinish,7
+SMSecUnexpectedDecrease,9
+SMWaitForApproval,1
+SMProduceFavorites,1
+SMUnknownItem,2
+SMProcessing,2
+SMItemQuantityExceeded,1
+SMCashPayment,1
+
+
+[52] WMM0015POS117-230304-185851  -> 74	[1676914847 - 1677956222] SellBagsAtFinalize: N
+Total Instance, 74
+CapturedInLogs: 1
+Timestamp: 1676914847 - 1677956222, SellBagsAtFinalize: N InstallDate: 1677625188
+----------------------------------
+Attendant Cleared, 22
+Shopper Cleared, 39
+----------------------------------
+SMScanAndBag,14
+SMItemQuantityExceeded,1
+SMFinish,2
+SMSecUnexpectedDecrease,3
+SMProduceFavorites,1
+SMWaitForApproval,1
+
+
+[53] WMM0015POS117-230308-135109  -> 64	[1678104053 - 1678282562] SellBagsAtFinalize: N
+Total Instance, 64
+CapturedInLogs: 0
+Timestamp: 1678104053 - 1678282562, SellBagsAtFinalize: N InstallDate: 1677625188
+----------------------------------
+Attendant Cleared, 18
+Shopper Cleared, 35
+----------------------------------
+SMScanAndBag,12
+SMThankYou,1
+SMSecUnexpectedDecrease,2
+SMFinish,2
+SMWaitForApproval,1
+
+
+[54] WMM0015POS119-230310-191459  -> 16	[1678382496 - 1678475236] SellBagsAtFinalize: N
+Total Instance, 16
+CapturedInLogs: 1
+Timestamp: 1678382496 - 1678475236, SellBagsAtFinalize: N InstallDate: 1677625170
+----------------------------------
+Attendant Cleared, 6
+Shopper Cleared, 10
+----------------------------------
+SMScanAndBag,4
+SMCashPayment,1
+SMProcessing,1
+
+
+[55] WMM0015POS120-230309-213439  -> 162	[1676986689 - 1678396454] SellBagsAtFinalize: N
+Total Instance, 162
+CapturedInLogs: 0
+Timestamp: 1676986689 - 1678396454, SellBagsAtFinalize: N InstallDate: 1677710434
+----------------------------------
+Attendant Cleared, 45
+Shopper Cleared, 100
+----------------------------------
+SMScanAndBag,26
+SMThankYou,1
+SMFinish,3
+SMSecUnexpectedDecrease,8
+SMCashPayment,1
+SMProcessing,3
+SMProduceFavorites,1
+SMBagAndEAS,1
+SMCustomMessage,1
+
+
+[56] WMM0015POS137-230308-154630  -> 193	[1677671848 - 1678290015] SellBagsAtFinalize: N
+Total Instance, 193
+CapturedInLogs: 0
+Timestamp: 1677671848 - 1678290015, SellBagsAtFinalize: N InstallDate: 1677625229
+----------------------------------
+Attendant Cleared, 68
+Shopper Cleared, 114
+----------------------------------
+SMScanAndBag,45
+SMThankYou,2
+SMFinish,6
+SMUnknownItem,2
+SMSecUnexpectedDecrease,6
+SMProcessing,4
+SMWaitForApproval,2
+SMProduceFavorites,1
+
+
+[57] WMM0015POS138-230309-192154  -> 172	[1677168100 - 1678385932] SellBagsAtFinalize: N
+Total Instance, 172
+CapturedInLogs: 0
+Timestamp: 1677168100 - 1678385932, SellBagsAtFinalize: N InstallDate: 1677710422
+----------------------------------
+Attendant Cleared, 50
+Shopper Cleared, 105
+----------------------------------
+SMScanAndBag,28
+SMThankYou,4
+SMFinish,3
+SMSecUnexpectedDecrease,5
+SMWaitForApproval,4
+SMItemQuantityExceeded,5
+SMProduceFavorites,1
+
+
+[58] WMM0015POS139-230310-061612  -> 155	[1677939787 - 1678428445] SellBagsAtFinalize: N
+Total Instance, 155
+CapturedInLogs: 1
+Timestamp: 1677939787 - 1678428445, SellBagsAtFinalize: N InstallDate: 1677625229
+----------------------------------
+Attendant Cleared, 43
+Shopper Cleared, 93
+----------------------------------
+SMScanAndBag,23
+SMThankYou,4
+SMSecUnexpectedDecrease,8
+SMFinish,1
+SMItemQuantityExceeded,3
+SMCustomMessage,2
+SMUnknownItem,1
+SMContinueTrans,1
+
+
+[59] WMM0015POS140-230304-033628  -> 51	[1676742298 - 1677900710] SellBagsAtFinalize: N
+Total Instance, 51
+CapturedInLogs: 2
+Timestamp: 1676742298 - 1677900710, SellBagsAtFinalize: N InstallDate: 1677710470
+----------------------------------
+Attendant Cleared, 20
+Shopper Cleared, 27
+----------------------------------
+SMScanAndBag,10
+SMItemQuantityExceeded,2
+SMFinish,2
+SMSecUnexpectedDecrease,2
+SMSmAuthorization,1
+SMCustomMessage,1
+SMContinueTrans,1
+SMProcessing,1
+
+
+[60] WMM0194POS116-230307-001623  -> 103	[1677164049 - 1678141733] SellBagsAtFinalize: Y
+Total Instance, 103
+CapturedInLogs: 1
+Timestamp: 1677164049 - 1678141733, SellBagsAtFinalize: Y InstallDate: 1677710308
+----------------------------------
+Attendant Cleared, 43
+Shopper Cleared, 51
+----------------------------------
+SMScanAndBag,32
+SMFinish,3
+SMCashPayment,2
+SMSecUnexpectedDecrease,2
+SMProcessing,2
+SMWaitForApproval,1
+SMUnknownItem,1
+
+
+[61] WMM0194POS117-230303-023415  -> 58	[1676317313 - 1677794209] SellBagsAtFinalize: N
+Total Instance, 58
+CapturedInLogs: 1
+Timestamp: 1676317313 - 1677794209, SellBagsAtFinalize: N InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 13
+Shopper Cleared, 37
+----------------------------------
+SMScanAndBag,9
+SMSecUnexpectedDecrease,2
+SMFinish,1
+SMWaitForApproval,1
+
+
+[62] WMM0194POS117-230310-120238  -> 135	[1677846744 - 1678448867] SellBagsAtFinalize: Y
+Total Instance, 135
+CapturedInLogs: 1
+Timestamp: 1677846744 - 1678448867, SellBagsAtFinalize: Y InstallDate: 1677625224
+----------------------------------
+Attendant Cleared, 41
+Shopper Cleared, 82
+----------------------------------
+SMScanAndBag,31
+SMFinish,3
+SMUnknownItem,3
+SMWaitForApproval,3
+SMUnDeActivatedItemApproval,1
+
+
+[63] WMM0194POS118-230304-033531  -> 42	[1676547717 - 1677900653] SellBagsAtFinalize: N
+Total Instance, 42
+CapturedInLogs: 1
+Timestamp: 1676547717 - 1677900653, SellBagsAtFinalize: N InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 9
+Shopper Cleared, 32
+----------------------------------
+SMScanAndBag,6
+SMWaitForApproval,2
+SMCustomMessage,1
+
+
+[64] WMM0194POS118-230307-000606  -> 19	[1678023245 - 1678144438] SellBagsAtFinalize: Y
+Total Instance, 19
+CapturedInLogs: 0
+Timestamp: 1678023245 - 1678144438, SellBagsAtFinalize: Y InstallDate: 1677710247
+----------------------------------
+Attendant Cleared, 7
+Shopper Cleared, 10
+----------------------------------
+SMScanAndBag,5
+SMCashPayment,1
+SMThankYou,1
+
+
+[65] WMM0194POS119-230304-090946  -> 37	[1676053365 - 1677920748] SellBagsAtFinalize: N
+Total Instance, 37
+CapturedInLogs: 0
+Timestamp: 1676053365 - 1677920748, SellBagsAtFinalize: N InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 4
+Shopper Cleared, 32
+----------------------------------
+SMScanAndBag,4
+
+
+[66] WMM0194POS119-230306-235018  -> 15	[1678025499 - 1678146265] SellBagsAtFinalize: N
+Total Instance, 15
+CapturedInLogs: 1
+Timestamp: 1678025499 - 1678146265, SellBagsAtFinalize: N InstallDate: 1677625316
+----------------------------------
+Attendant Cleared, 1
+Shopper Cleared, 13
+----------------------------------
+SMScanAndBag,1
+
+
+[67] WMM0194POS120-230304-033607  -> 31	[1676475241 - 1677900653] SellBagsAtFinalize: N
+Total Instance, 31
+CapturedInLogs: 5
+Timestamp: 1676475241 - 1677900653, SellBagsAtFinalize: N InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 8
+Shopper Cleared, 20
+----------------------------------
+SMScanAndBag,6
+SMTakeReceipt,1
+SMSecUnexpectedDecrease,1
+
+
+[68] WMM0194POS120-230307-000624  -> 4	[1678121980 - 1678144425] SellBagsAtFinalize: Y
+Total Instance, 4
+CapturedInLogs: 1
+Timestamp: 1678121980 - 1678144425, SellBagsAtFinalize: Y InstallDate: 1677710230
+----------------------------------
+Attendant Cleared, 2
+Shopper Cleared, 2
+----------------------------------
+SMScanAndBag,2
+
+
+[69] WMM0194POS121-230308-174156  -> 178	[1677673888 - 1678297020] SellBagsAtFinalize: Y
+Total Instance, 178
+CapturedInLogs: 1
+Timestamp: 1677673888 - 1678297020, SellBagsAtFinalize: Y InstallDate: 1677625132
+----------------------------------
+Attendant Cleared, 49
+Shopper Cleared, 108
+----------------------------------
+SMScanAndBag,29
+SMThankYou,2
+SMTakeReceipt,1
+SMFinish,2
+SMSecUnexpectedDecrease,9
+SMWaitForApproval,5
+SMCustomMessage,1
+
+
+[70] WMM0194POS137-230307-002043  -> 200	[1677146136 - 1678146340] SellBagsAtFinalize: Y
+Total Instance, 200
+CapturedInLogs: 0
+Timestamp: 1677146136 - 1678146340, SellBagsAtFinalize: Y InstallDate: 1677625221
+----------------------------------
+Attendant Cleared, 68
+Shopper Cleared, 115
+----------------------------------
+SMScanAndBag,49
+SMSecUnexpectedDecrease,8
+SMTakeReceipt,1
+SMWaitForApproval,4
+SMCustomMessage,1
+SMProduceFavorites,1
+SMUnknownItem,2
+SMProcessing,1
+SMGiftCardPayment,1
+
+
+[71] WMM0194POS137-230308-185510  -> 17	[1678256979 - 1678301211] SellBagsAtFinalize: Y
+Total Instance, 17
+CapturedInLogs: 2
+Timestamp: 1678256979 - 1678301211, SellBagsAtFinalize: Y InstallDate: 1677625221
+----------------------------------
+Attendant Cleared, 6
+Shopper Cleared, 8
+----------------------------------
+SMScanAndBag,3
+SMSecUnexpectedDecrease,2
+SMWaitForApproval,1
+
+
+[72] WMM0194POS138-230307-000546  -> 208	[1677777516 - 1678144451] SellBagsAtFinalize: Y
+Total Instance, 208
+CapturedInLogs: 1
+Timestamp: 1677777516 - 1678144451, SellBagsAtFinalize: Y InstallDate: 1677710225
+----------------------------------
+Attendant Cleared, 88
+Shopper Cleared, 92
+----------------------------------
+SMScanAndBag,56
+SMThankYou,1
+SMSecUnexpectedDecrease,12
+SMFinish,3
+SMWaitForApproval,4
+SMItemQuantityExceeded,2
+SMUnknownItem,3
+SMProduceFavorites,3
+SMProcessing,2
+SMVoucherPayment,1
+SMBagAndEAS,1
+
+
+[73] WMM0777POS116-230414-125806  -> 23	[1678866188 - 1681473521] SellBagsAtFinalize: Y
+Total Instance, 23
+CapturedInLogs: 0
+Timestamp: 1678866188 - 1681473521, SellBagsAtFinalize: Y InstallDate: 1681458963
+----------------------------------
+Attendant Cleared, 0
+Shopper Cleared, 19
+----------------------------------
+
+
+*************************************************
+Diags with UnexpectedIncrease in SM.log [38]
+*************************************************
+WMM0194POS117-230310-120238
+WMM0194POS117-230313-171119
+WMM0194POS117-230317-115540
+WMM0194POS117-230321-082529
+WMM0194POS117-230325-075908
+WMM0194POS117-230325-113012
+WMM0194POS117-230328-075648
+WMM0194POS118-230323-031308
+WMM0194POS118-230325-112923
+WMM0194POS119-230323-031039
+WMM0194POS119-230325-074426
+WMM0194POS119-230328-081418
+WMM0194POS120-230315-123358
+WMM0194POS120-230323-030534
+WMM0194POS120-230325-112856
+WMM0194POS120-230325-164413
+WMM0194POS121-230323-230400
+WMM0194POS121-230325-074326
+WMM0194POS137-230321-082037
+WMM0194POS137-230323-030412
+WMM0194POS138-230311-140006
+WMM0194POS138-230314-175932
+WMM0194POS138-230318-064156
+WMM0015POS116-230309-192610
+WMM0015POS117-230304-185851
+WMM0015POS119-230310-191459
+WMM0015POS139-230310-061612
+WMM0015POS140-230304-033628
+WMM0194POS116-230307-001623
+WMM0194POS117-230303-023415
+WMM0194POS117-230310-120238
+WMM0194POS118-230304-033531
+WMM0194POS119-230306-235018
+WMM0194POS120-230304-033607
+WMM0194POS120-230307-000624
+WMM0194POS121-230308-174156
+WMM0194POS137-230308-185510
+WMM0194POS138-230307-000546
+

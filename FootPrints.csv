@@ -1,0 +1,4 @@
+Store,Lane,DateTime,Foorprint,Diag,Build
+004,117,04.27.2022-14.46.26,SMOutOfService2|SMAttract|SMLaneClosed|SMAttract|SMSmAuthorization,WMM0004POS117-230427-143928,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+004,117,04.28.2022-01.44.05,SMAttract|SMLaneClosed|SMOutOfService2|SMAttract|SMLaneClosed,WMM0004POS117-230428-014126,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+004,117,04.29.2022-06.31.10,SMAttract|SMLaneClosed|SMOutOfService2|SMAttract|SMLaneClosed,WMM0004POS117-230429-062804,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33

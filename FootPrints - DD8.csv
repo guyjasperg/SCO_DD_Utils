@@ -1,0 +1,43 @@
+Store,Lane,DateTime,Foorprint,Diag,Build
+194,116,03.03.2022-21.57.57,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS116-230304-033701,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.04.2022-03.51.39,SMOutOfService|SMOutOfService2|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS116-230304-035720,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.04.2022-21.48.29,SMSmDataEntry|SMFinish|SMProcessing|SMUnDeActivatedItemApproval|SMProcessing,WMM0194POS116-230304-220715,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.04.2022-22.22.35,SMProcessing|SMOutOfService2|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS116-230305-040410,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-06.15.26,SMTakeReceipt|SMThankYou|SMAttract|SMAttract|SMLaneClosed,WMM0194POS116-230306-064648,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-07.02.08,SMAttract|SMLaneClosed|SMOutOfService2|SMAttract|SMLaneClosed,WMM0194POS116-230306-073137,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-10.29.08,SMTakeCard|SMTakeChange|SMTakeReceipt|SMThankYou|SMAttract,WMM0194POS116-230306-103910,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-11.13.40,SMFinish|SMTakeCard|SMTakeReceipt|SMThankYou|SMAttract,WMM0194POS116-230306-112311,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-11.38.41,SMThankYou|SMAttract|SMOutOfService2|SMAttract|SMLaneClosed,WMM0194POS116-230306-115329,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-12.10.05,SMAttract|SMLaneClosed|SMOutOfService2|SMAttract|SMLaneClosed,WMM0194POS116-230306-122134,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-12.36.19,SMAttract|SMLaneClosed|SMOutOfService2|SMAttract|SMLaneClosed,WMM0194POS116-230306-131407,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-18.57.44,SMAttract|SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed,WMM0194POS116-230306-191529,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-19.31.50,SMAttract|SMLaneClosed|SMOutOfService2|SMAttract|SMLaneClosed,WMM0194POS116-230306-194657,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,116,03.06.2022-21.14.43,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS116-230307-001623,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 23:22:49
+194,117,03.02.2022-21.56.48,SMAttract|SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed,WMM0194POS117-230303-023415,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,117,03.04.2022-06.10.23,SMSystemMessage1|SMSmCashManagementEx|SMSmMediaStatus|SMSmAuthorization|SMAttract,WMM0194POS117-230304-064333,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,117,03.04.2022-06.10.23,SMSystemMessage1|SMSmCashManagementEx|SMSmMediaStatus|SMSmAuthorization|SMAttract,WMM0194POS117-230304-070114,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,117,03.06.2022-21.57.11,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS117-230306-235622,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,117,03.06.2022-21.57.11,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS117-230307-002009,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,118,03.03.2022-21.50.25,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS118-230304-033531,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,118,03.06.2022-21.57.22,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS118-230306-223635,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,118,03.06.2022-22.53.06,SMOutOfService|SMOutOfService2|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS118-230307-000606,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 23:15:15
+194,119,03.02.2022-21.43.59,SMAttract|SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed,WMM0194POS119-230303-023426,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,119,03.04.2022-06.10.11,SMCardProcessing|SMRAPDataNeeded|SMSmDataEntry|SMFinish|SMCardProcessing,WMM0194POS119-230304-090946,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,119,03.06.2022-21.08.29,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS119-230306-235018,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 23:46:00
+194,120,03.03.2022-21.44.04,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS120-230304-033607,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,120,03.06.2022-21.44.22,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS120-230306-223447,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 22:30:06
+194,120,03.06.2022-22.50.23,SMOutOfService|SMOutOfService2|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS120-230307-000624,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 23:14:57
+194,121,03.02.2022-21.43.28,SMAttract|SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed,WMM0194POS121-230303-022757,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,121,03.06.2022-09.51.56,SMSmRestrictedItems|SMRAPDataNeeded|SMSmDataEntry|SMRAPDataNeeded|SMSmVoidAndRemoveItem,WMM0194POS121-230306-095946,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,121,03.06.2022-21.09.32,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS121-230306-235044,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 23:44:36
+194,121,03.06.2022-21.09.32,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS121-230307-000145,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 23:44:36
+194,137,03.02.2022-21.39.52,SMAttract|SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed,WMM0194POS137-230303-023140,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,137,03.06.2022-21.04.09,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS137-230306-235258,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,137,03.06.2022-21.04.09,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS137-230307-002043,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,138,03.03.2022-21.59.25,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS138-230304-033754,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,138,03.04.2022-12.42.35,SMThankYou|SMAttract|SMPutBagOnScale|SMScanAndBag|SMBagAndEAS,WMM0194POS138-230304-125130,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,138,03.04.2022-14.08.33,SMSmAuthorization|SMSmAssistMenu|SMBagAndEAS|SMScanAndBag|SMBagAndEAS,WMM0194POS138-230304-142507,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,138,NotFound,SMRAPDataNeeded|SMSmDataEntry|SMRAPDataNeeded|SMFinish|SMProcessing,WMM0194POS138-230304-192238,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,138,03.06.2022-18.05.52,SMThankYou|SMAttract|SMBagAndEAS|SMScanAndBag|SMBagAndEAS,WMM0194POS138-230306-182041,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+194,138,03.06.2022-21.38.28,SMContextHelp|SMSmAuthorization|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS138-230306-224024,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 22:29:57
+194,138,03.06.2022-22.54.00,SMOutOfService|SMOutOfService2|SMAttract|SMLaneClosed|SMOutOfService,WMM0194POS138-230307-000546,MorrisonsUKADK622Release230209E1.1.0.0.33_Patch1 at Date: 06/03/2023  Time: 23:15:27

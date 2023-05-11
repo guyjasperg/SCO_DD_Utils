@@ -1,0 +1,8302 @@
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS116-230328-090448\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS116-230328-094434\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230310-120238\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230313-171119\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMFinish
+SMTakeLoyaltyCard
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230317-115540\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMFinish
+SMTakeLoyaltyCard
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230321-082529\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230323-030815\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230323-184848\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230323-230114\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230325-075908\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230325-113012\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS117-230328-075648\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSystemMessage4
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS118-230315-080302\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS118-230315-174101\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS118-230316-162015\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS118-230316-172547\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS118-230318-135013\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS118-230323-031308\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS118-230325-112923\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS118-230327-160455\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS119-230317-122624\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMGiftCardPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS119-230317-154333\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMGiftCardPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS119-230323-031039\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMGiftCardPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS119-230325-074426\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS119-230325-113405\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS119-230327-045913\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS119-230327-051355\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS119-230328-081418\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS120-230315-123358\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMProcessing
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS120-230316-110657\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMProcessing
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS120-230323-030534\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMProcessing
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS120-230323-230507\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS120-230325-074518\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS120-230325-112856\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS120-230325-164413\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMRAPDataNeeded
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS121-230323-030805\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMTakeCard
+SMTakeReceipt
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnexpectedDecrease
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMGiftCardPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS121-230323-230400\scotapp.stf
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS121-230325-074326\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS121-230325-112730\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS137-230316-200934\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMVoucherPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS137-230317-175614\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMVoucherPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS137-230321-082037\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS137-230323-030412\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS137-230326-125300\scotapp.stf
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS138-230311-140006\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMCardProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS138-230314-175932\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS138-230318-064156\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMProduceFavorites
+SMKeyInCode
+SMBagAndEAS
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS138-230323-030542\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS138-230323-094938\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\20230331\WMM0194POS138-230323-225854\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMTakeCard
+SMTakeReceipt
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS116-230309-192610\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS117-230304-185851\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS117-230308-135109\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS119-230310-191459\scotapp.stf
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS120-230309-213439\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS137-230308-154630\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS138-230309-192154\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS139-230310-061612\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0015POS140-230304-033628\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS116-230307-001623\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS117-230303-023415\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS117-230310-120238\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMScanAndBag
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMCashPayment
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCardProcessing
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMCustomMessage
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS118-230304-033531\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS118-230307-000606\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS119-230304-090946\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS119-230306-235018\scotapp.stf
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS120-230304-033607\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS120-230307-000624\scotapp.stf
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS121-230308-174156\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMProcessing
+SMFinish
+SMFinish
+SMTakeLoyaltyCard
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--sellbags flow--
+SMSellBags
+SMCmDataEntry
+SMFinish
+SMGetFoodStampState
+SMFinish
+SMProcessing
+SMFinish
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS137-230307-002043\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS137-230308-185510\scotapp.stf
+C:\Diags\Morrisons DeepDive\DD8\Matched\WMM0194POS138-230307-000546\scotapp.stf
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+SMSecUnExpectedIncrease
+--own bag flow--
+SMPutBagOnScale
+SMScanAndBag
+SMSecUnExpectedIncrease
+C:\Diags\Morrisons DeepDive\DD8\WMM0777POS116-230414-125806\scotapp.stf
