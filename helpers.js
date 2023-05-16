@@ -21,6 +21,10 @@ module.exports.Init_StateName_ID = Init_StateName_ID
 module.exports.GetStateNameByID = GetStateNameByID
 module.exports.GetLogStartTimes = GetLogStartTimes
 module.exports.GetConfigSetting = GetConfigSetting
+module.exports.ReadFileAsString = ReadFileAsString
+module.exports.IsMatchCriteria_ItemSold = IsMatchCriteria_ItemSold
+module.exports.GetDateTimeFromLine = GetDateTimeFromLine
+module.exports.GetDateTimeFromLine_ticks = GetDateTimeFromLine_ticks
 
 var _StateNames = new Map()
 
@@ -42,23 +46,36 @@ function GetFilesFromDirectory(Directory, files) {
     return files
 }
 
-function GetFilesFromDirectory_SM(diag_dir, files) {
+function GetFilesFromDirectory_SM(diag_dir, files, filter = '') {
     FS.readdirSync(diag_dir).forEach(file => {
         //check if dir
         const abs = Path.join(diag_dir, file);
         if (FS.statSync(abs).isDirectory()) {
-            return GetFilesFromDirectory_SM(abs, files);
+            return GetFilesFromDirectory_SM(abs, files, filter);
         }
         else {
             //process file
-            if (Path.basename(abs).toLowerCase() === "sm.log") {
-                //check .bak first
-                let bakFile = `${diag_dir}\\SM.log.BAK`
-                if (FS.existsSync(bakFile)) {
-                    files.push(bakFile)
-                }
+            if (filter === 'SM') {
+                if (Path.basename(abs).toLowerCase() === "sm.log") {
+                    //check .bak first
+                    let bakFile = `${diag_dir}\\SM.log.BAK`
+                    if (FS.existsSync(bakFile)) {
+                        files.push(bakFile)
+                    }
 
-                files.push(abs);
+                    files.push(abs);
+                }
+            }
+            else if (filter === 'Traces') {
+                if (Path.basename(abs).toLowerCase() === "traces.log") {
+                    //check .bak first
+                    let bakFile = `${diag_dir}\\traces.log.BAK`
+                    if (FS.existsSync(bakFile)) {
+                        files.push(bakFile)
+                    }
+
+                    files.push(abs);
+                }
             }
         }
     })
@@ -80,6 +97,22 @@ function GetLastTransactionTime(dirPath) {
     }
 
     return result;
+}
+
+function ReadFileAsString(file) {
+    let result = ''
+    if (FS.existsSync(file)) {
+        //read content.
+        let encoding = getFileEncoding(file);
+        let currentLine = ''
+
+        const lines = new nReadlines(file);
+        while ((line = lines.next())) {
+            currentLine = GetAsciiStringFromReadLine(line, encoding)
+            result += currentLine + '\n'
+        }
+    }
+    return result
 }
 
 function GetLastTransactionTime2(file) {
@@ -784,13 +817,20 @@ function GetDateTimeFromLine(line) {
     }
 }
 
+function GetDateTimeFromLine_ticks(line) {
+    //supports Traces log for now
+    let temp = line.split(';')[1]
+
+    return temp.split(' ')[0]
+}
+
 function GetConfigSetting(dirpath) {
     let temp = ''
     let result = '[ScotOpts.000]' + '\n'
 
     //scotopts
     const items_Scotopts = [
-        'DelaySecurityNotificationMilliSecs',
+        '   ',
         'BagItemEscalationMilliSecs'
     ]
 
@@ -910,4 +950,153 @@ function GetConfigSetting(dirpath) {
     }
 
     return result
+}
+
+function GetItemSoldFromTraces(diag_dir) {
+    //Get Traces.log and Traces.log.bak
+    GetFilesFromDirectory_SM(CURRENT_DIAG_FOLDER, files, "Traces")
+
+    if (files.length > 0) {
+        let fileSave = 'ItemSold.txt'
+        let result = ''
+
+        //process files
+        let currentDiagName = ''
+        files.forEach(file => {
+            let diagName = Path.basename(Path.dirname(file))
+            if (currentDiagName !== diagName) {
+                //new diag folder
+                occurrence = 0
+
+                // if (result !== '')
+                //     result += '\n'
+                //result += diagName + '\n'
+                currentDiagName = diagName
+                console.log(`${diagName}`)
+            }
+            else {
+                //continuation
+            }
+
+            //read file content
+            let data = FS.readFileSync(file).toString().split('\n');
+
+            //check each line for occurrence
+            if (data.length > 0) {
+                let lastDiagName = ''
+                data.forEach(line => {
+                    if (IsMatchCriteria_ItemSold(line)) {
+                        occurrence++
+                        line = line.replaceAll(',', '').trim()
+                        // if (occurrence > 1)
+                        //     result += ',\n'
+
+                        //get lane info
+                        let store = '', lane = ''
+                        if (currentDiagName.indexOf('WMM') === 0) {
+                            store = currentDiagName.substring(3, 7)
+                            lane = currentDiagName.substring(10, 13)
+                            result += `[${currentDiagName}]\n`
+                        }
+
+                        if (bDontLogDuplicateDiag && occurrence >= 2) {
+                            // let diagname = ''.padEnd(27, ' ')
+                            // result += `    ,   ,${diagname},${line}\n`
+                            result += `${line}\n`
+                        }
+                        else {
+                            //result += `${store},${lane},${currentDiagName},${line}\n`
+                            result += `${line}\n`
+                        }
+                    }
+                })
+                //result += '\n'
+            }
+        })
+
+        FS.writeFileSync(fileSave, result)
+    }
+}
+
+
+//return true if you want this line to be added in the csv result
+function IsMatchCriteria(line) {
+    if ((line.indexOf('> fastlane::GenerateException:') > 0 &&
+        line.indexOf('=unexpected-increase;') > 0)) {
+        return true
+    }
+    //additional criteria
+    // else if ((line.indexOf('> fastlane::GenerateException:') > 0 &&
+    //     line.indexOf('=unexpected-decrease;') > 0)) {
+    //     return true
+    // }
+    else {
+        return false
+    }
+}
+
+function IsMatchCriteria_ItemSold(line) {
+    const matchFilter = [
+        '+isBarcodeValidOperatorPassword',
+        'TB item sale <',
+        'TBEnterItem--ItemDetail: io.csItemCode:',
+        '!!!! TB State id=15, name:ITEMSOLD',
+        '!!!! TB State id=31, name:TOTAL',
+        'Adjusted Items Entry ID:',
+        'TBGetItemDetails--ItemDetail:',
+        //'+TellApplicationStateToSecurity Operation = ',
+        'PostSecMgr SmOnSecurityException sParms=exception-id[text]=',
+        'PostSecMgr SmOnSecurityExceptionCleared',
+        'PostSecMgr SmOnItemOK'
+    ]
+
+    let bFound = false
+
+    matchFilter.every(item => {
+        if (line.indexOf(item) > 0) {
+            bFound = true
+            return false
+        }
+        return true
+    })
+
+    return bFound
+
+    // if ((line.indexOf('+isBarcodeValidOperatorPassword') > 0)) {
+    //     return true
+    // }
+    // //additional criteria
+    // else if ((line.indexOf('TB item sale <') > 0)) {
+    //     return false
+    // }
+    // else if ((line.indexOf('TBEnterItem--ItemDetail: io.csItemCode:') > 0)) {
+    //     return true
+    // }
+    // else if ((line.indexOf('!!!! TB State id=15, name:ITEMSOLD') > 0)) {
+    //     return true
+    // }
+    // else if ((line.indexOf('Adjusted Items Entry ID:') > 0)) {
+    //     return true
+    // }
+    // else if ((line.indexOf('TBGetItemDetails--ItemDetail:') > 0)) {
+    //     return true
+    // }
+    // else if ((line.indexOf('+TellApplicationStateToSecurity Operation = ') > 0)) {
+    //     return false
+    // }
+    // else if ((line.indexOf('!!!! TB State id=31, name:TOTAL') > 0)) {
+    //     return true
+    // }
+    // else if ((line.indexOf('PostSecMgr SmOnSecurityException sParms=exception-id[text]=') > 0)) {
+    //     return true
+    // }
+    // else if ((line.indexOf('PostSecMgr SmOnSecurityExceptionCleared') > 0)) {
+    //     return true
+    // }
+    // else if ((line.indexOf('PostSecMgr SmOnItemOK') > 0)) {
+    //     return true
+    // }
+    // else {
+    //     return false
+    // }
 }

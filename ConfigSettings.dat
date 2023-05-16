@@ -154,32 +154,6 @@ TransPolicy.AttractQuietModeTimeout = 1
 TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
-WMM0056POS116-220716-135341 - 06/28/2022 22:10:19 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.0.5_LaneSetup
-[ScotOpts.000]
-BagItemEscalationMilliSecs = 25000
-[SecurityConfig.xml]
-slow-wt-conclusion-in-not-expecting-timer = 750
-default-heavy-wt-limit = 5000
-default-medium-wt-limit = 2000
-default-heavy-wt-tolerance = 200
-default-medium-wt-tolerance = 200
-default-light-wt-tolerance = 200
-[SecurityConfig.000]
-default-heavy-wt-limit = 1554
-default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 441
-default-medium-wt-tolerance = 386
-default-light-wt-tolerance = 220
-[ConfigEntity-AllLanesCommon.xml]
-TransPolicy.Tare.1.TareWt = 661
-TransPolicy.Tare.2.TareWt = 0
-TransPolicy.Tare.1.TareWtTolerance = 661
-TransPolicy.Tare.2.TareWtTolerance = 0
-TransPolicy.AttractQuietMode = true
-TransPolicy.AttractQuietModeTimeout = 1
-TransPolicy.RemovingItemsAutoAdvance = true
-TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
-
 WMM0056POS116-220824-143733 - 08/22/2022 22:39:10 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.1.9_LaneSetup
 [ScotOpts.000]
 BagItemEscalationMilliSecs = 25000
@@ -258,6 +232,32 @@ TransPolicy.AttractQuietModeTimeout = 1
 TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
+WMM0056POS138-220716-133609 - 06/28/2022 22:09:59 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.0.5_LaneSetup
+[ScotOpts.000]
+BagItemEscalationMilliSecs = 25000
+[SecurityConfig.xml]
+slow-wt-conclusion-in-not-expecting-timer = 750
+default-heavy-wt-limit = 5000
+default-medium-wt-limit = 2000
+default-heavy-wt-tolerance = 200
+default-medium-wt-tolerance = 200
+default-light-wt-tolerance = 200
+[SecurityConfig.000]
+default-heavy-wt-limit = 1554
+default-medium-wt-limit = 0443
+default-heavy-wt-tolerance = 441
+default-medium-wt-tolerance = 386
+default-light-wt-tolerance = 220
+[ConfigEntity-AllLanesCommon.xml]
+TransPolicy.Tare.1.TareWt = 661
+TransPolicy.Tare.2.TareWt = 0
+TransPolicy.Tare.1.TareWtTolerance = 661
+TransPolicy.Tare.2.TareWtTolerance = 0
+TransPolicy.AttractQuietMode = true
+TransPolicy.AttractQuietModeTimeout = 1
+TransPolicy.RemovingItemsAutoAdvance = true
+TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
+
 WMM0056POS203-220825-161924 - 08/21/2022 21:11:04 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.1.9_LaneSetup
 [ScotOpts.000]
 BagItemEscalationMilliSecs = 25000
@@ -284,7 +284,7 @@ TransPolicy.AttractQuietModeTimeout = 1
 TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
-WMM0079POS116-220914-055819 - 08/31/2022 23:16:06 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.1.9_LaneSetup
+WMM0079POS116-220707-215737 - 06/27/2022 23:04:51 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.0.5_LaneSetup
 [ScotOpts.000]
 BagItemEscalationMilliSecs = 25000
 [SecurityConfig.xml]
@@ -297,8 +297,8 @@ default-light-wt-tolerance = 200
 [SecurityConfig.000]
 default-heavy-wt-limit = 1554
 default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 441
-default-medium-wt-tolerance = 386
+default-heavy-wt-tolerance = 374
+default-medium-wt-tolerance = 330
 default-light-wt-tolerance = 220
 [ConfigEntity-AllLanesCommon.xml]
 TransPolicy.Tare.1.TareWt = 661
@@ -440,33 +440,6 @@ TransPolicy.AttractQuietModeTimeout = 1
 TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
-WMM0085POS117-221013-113614 - 09/04/2022 20:53:47 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.1.9_LaneSetup
-[ScotOpts.000]
-BagItemEscalationMilliSecs = 25000
-[SecurityConfig.xml]
-slow-wt-conclusion-in-not-expecting-timer = 750
-default-heavy-wt-limit = 5000
-default-medium-wt-limit = 2000
-default-heavy-wt-tolerance = 200
-default-medium-wt-tolerance = 200
-default-light-wt-tolerance = 200
-[SecurityConfig.000]
-slow-wt-conclusion-in-not-expecting-timer = 1500
-default-heavy-wt-limit = 1554
-default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 441
-default-medium-wt-tolerance = 386
-default-light-wt-tolerance = 220
-[ConfigEntity-AllLanesCommon.xml]
-TransPolicy.Tare.1.TareWt = 661
-TransPolicy.Tare.2.TareWt = 0
-TransPolicy.Tare.1.TareWtTolerance = 661
-TransPolicy.Tare.2.TareWtTolerance = 0
-TransPolicy.AttractQuietMode = true
-TransPolicy.AttractQuietModeTimeout = 1
-TransPolicy.RemovingItemsAutoAdvance = true
-TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
-
 WMM0085POS119-221013-182932 - 09/04/2022 20:55:53 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.1.9_LaneSetup
 [ScotOpts.000]
 BagItemEscalationMilliSecs = 25000
@@ -494,33 +467,7 @@ TransPolicy.AttractQuietModeTimeout = 1
 TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
-WMM0085POS120-221006-031248 - 09/05/2022 22:11:53 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.1.9_LaneSetup
-[ScotOpts.000]
-BagItemEscalationMilliSecs = 25000
-[SecurityConfig.xml]
-slow-wt-conclusion-in-not-expecting-timer = 750
-default-heavy-wt-limit = 5000
-default-medium-wt-limit = 2000
-default-heavy-wt-tolerance = 200
-default-medium-wt-tolerance = 200
-default-light-wt-tolerance = 200
-[SecurityConfig.000]
-default-heavy-wt-limit = 1554
-default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 441
-default-medium-wt-tolerance = 386
-default-light-wt-tolerance = 220
-[ConfigEntity-AllLanesCommon.xml]
-TransPolicy.Tare.1.TareWt = 661
-TransPolicy.Tare.2.TareWt = 0
-TransPolicy.Tare.1.TareWtTolerance = 661
-TransPolicy.Tare.2.TareWtTolerance = 0
-TransPolicy.AttractQuietMode = true
-TransPolicy.AttractQuietModeTimeout = 1
-TransPolicy.RemovingItemsAutoAdvance = true
-TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
-
-WMM0098POS121-220711-212354 - 06/28/2022 22:06:27 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.0.5_LaneSetup
+WMM0098POS117-220708-210501 - 06/28/2022 22:08:40 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.0.5_LaneSetup
 [ScotOpts.000]
 BagItemEscalationMilliSecs = 25000
 [SecurityConfig.xml]
@@ -573,32 +520,6 @@ TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
 WMM0098POS139-220915-135726 - 08/31/2022 06:47:11 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.1.9_LaneSetup
-[ScotOpts.000]
-BagItemEscalationMilliSecs = 25000
-[SecurityConfig.xml]
-slow-wt-conclusion-in-not-expecting-timer = 750
-default-heavy-wt-limit = 5000
-default-medium-wt-limit = 2000
-default-heavy-wt-tolerance = 200
-default-medium-wt-tolerance = 200
-default-light-wt-tolerance = 200
-[SecurityConfig.000]
-default-heavy-wt-limit = 1554
-default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 441
-default-medium-wt-tolerance = 386
-default-light-wt-tolerance = 220
-[ConfigEntity-AllLanesCommon.xml]
-TransPolicy.Tare.1.TareWt = 661
-TransPolicy.Tare.2.TareWt = 0
-TransPolicy.Tare.1.TareWtTolerance = 661
-TransPolicy.Tare.2.TareWtTolerance = 0
-TransPolicy.AttractQuietMode = true
-TransPolicy.AttractQuietModeTimeout = 1
-TransPolicy.RemovingItemsAutoAdvance = true
-TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
-
-WMM0098POS140-220714-071502 - 06/29/2022 22:18:35 Successfully Installed Morrisons Lane Full Morrisons_ADK622Release220316E2.1.0.0.5_LaneSetup
 [ScotOpts.000]
 BagItemEscalationMilliSecs = 25000
 [SecurityConfig.xml]
@@ -708,35 +629,7 @@ TransPolicy.AttractQuietModeTimeout = 1
 TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
-WMM0137POS116-221218-084811 - Morrisons_LaneSetup-ADK622Release220928E2.1.0.0.11
-[ScotOpts.000]
-DelaySecurityNotificationMilliSecs = 10000
-BagItemEscalationMilliSecs = 25000
-[SecurityConfig.xml]
-slow-wt-conclusion-in-not-expecting-timer = 750
-default-heavy-wt-limit = 5000
-default-medium-wt-limit = 2000
-default-heavy-wt-tolerance = 200
-default-medium-wt-tolerance = 200
-default-light-wt-tolerance = 200
-[SecurityConfig.000]
-slow-wt-conclusion-in-not-expecting-timer = 1500
-default-heavy-wt-limit = 1554
-default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 828
-default-medium-wt-tolerance = 500
-default-light-wt-tolerance = 500
-[ConfigEntity-AllLanesCommon.xml]
-TransPolicy.Tare.1.TareWt = 661
-TransPolicy.Tare.2.TareWt = 0
-TransPolicy.Tare.1.TareWtTolerance = 661
-TransPolicy.Tare.2.TareWtTolerance = 0
-TransPolicy.AttractQuietMode = true
-TransPolicy.AttractQuietModeTimeout = 1
-TransPolicy.RemovingItemsAutoAdvance = true
-TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
-
-WMM0137POS118-221026-022957 - Morrisons_LaneSetup-ADK622Release220928E1.1.0.0.13
+WMM0137POS121-221021-195637 - Morrisons_LaneSetup-ADK622Release220928E1.1.0.0.13
 [ScotOpts.000]
 BagItemEscalationMilliSecs = 25000
 [SecurityConfig.xml]
@@ -763,7 +656,7 @@ TransPolicy.AttractQuietModeTimeout = 1
 TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
-WMM0137POS139-221104-121606 - Morrisons_LaneSetup-ADK622Release220928E1.1.0.0.13
+WMM0137POS137-221027-135403 - Morrisons_LaneSetup-ADK622Release220928E1.1.0.0.13
 [ScotOpts.000]
 BagItemEscalationMilliSecs = 25000
 [SecurityConfig.xml]
@@ -790,9 +683,8 @@ TransPolicy.AttractQuietModeTimeout = 1
 TransPolicy.RemovingItemsAutoAdvance = true
 TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
 
-WMM0194POS116-230328-090448 - Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+WMM0137POS202-221026-123941 - Morrisons_LaneSetup-ADK622Release220928E1.1.0.0.13
 [ScotOpts.000]
-DelaySecurityNotificationMilliSecs = 5000
 BagItemEscalationMilliSecs = 25000
 [SecurityConfig.xml]
 slow-wt-conclusion-in-not-expecting-timer = 750
@@ -805,93 +697,9 @@ default-light-wt-tolerance = 200
 slow-wt-conclusion-in-not-expecting-timer = 1500
 default-heavy-wt-limit = 1554
 default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 374
-default-medium-wt-tolerance = 330
+default-heavy-wt-tolerance = 441
+default-medium-wt-tolerance = 386
 default-light-wt-tolerance = 220
-[ConfigEntity-AllLanesCommon.xml]
-TransPolicy.Tare.1.TareWt = 661
-TransPolicy.Tare.2.TareWt = 0
-TransPolicy.Tare.1.TareWtTolerance = 661
-TransPolicy.Tare.2.TareWtTolerance = 0
-TransPolicy.AttractQuietMode = true
-TransPolicy.AttractQuietModeTimeout = 1
-TransPolicy.RemovingItemsAutoAdvance = true
-TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
-
-WMM0194POS117-230306-235622 - Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
-[ScotOpts.000]
-DelaySecurityNotificationMilliSecs = 5000
-BagItemEscalationMilliSecs = 25000
-[SecurityConfig.xml]
-slow-wt-conclusion-in-not-expecting-timer = 750
-default-heavy-wt-limit = 5000
-default-medium-wt-limit = 2000
-default-heavy-wt-tolerance = 200
-default-medium-wt-tolerance = 200
-default-light-wt-tolerance = 200
-[SecurityConfig.000]
-slow-wt-conclusion-in-not-expecting-timer = 1500
-default-heavy-wt-limit = 1554
-default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 828
-default-medium-wt-tolerance = 500
-default-light-wt-tolerance = 500
-[ConfigEntity-AllLanesCommon.xml]
-TransPolicy.Tare.1.TareWt = 661
-TransPolicy.Tare.2.TareWt = 0
-TransPolicy.Tare.1.TareWtTolerance = 661
-TransPolicy.Tare.2.TareWtTolerance = 0
-TransPolicy.AttractQuietMode = true
-TransPolicy.AttractQuietModeTimeout = 1
-TransPolicy.RemovingItemsAutoAdvance = true
-TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
-
-WMM0194POS121-230307-000145 - Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
-[ScotOpts.000]
-DelaySecurityNotificationMilliSecs = 5000
-BagItemEscalationMilliSecs = 25000
-[SecurityConfig.xml]
-slow-wt-conclusion-in-not-expecting-timer = 750
-default-heavy-wt-limit = 5000
-default-medium-wt-limit = 2000
-default-heavy-wt-tolerance = 200
-default-medium-wt-tolerance = 200
-default-light-wt-tolerance = 200
-[SecurityConfig.000]
-slow-wt-conclusion-in-not-expecting-timer = 1500
-default-heavy-wt-limit = 1554
-default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 828
-default-medium-wt-tolerance = 500
-default-light-wt-tolerance = 500
-[ConfigEntity-AllLanesCommon.xml]
-TransPolicy.Tare.1.TareWt = 661
-TransPolicy.Tare.2.TareWt = 0
-TransPolicy.Tare.1.TareWtTolerance = 661
-TransPolicy.Tare.2.TareWtTolerance = 0
-TransPolicy.AttractQuietMode = true
-TransPolicy.AttractQuietModeTimeout = 1
-TransPolicy.RemovingItemsAutoAdvance = true
-TransPolicy.RemovingItemsAutoAdvanceTimeout = 1
-
-WMM0326POS140-221212-132808 - Morrisons_LaneSetup-ADK622Release220928E2.1.0.0.11
-[ScotOpts.000]
-DelaySecurityNotificationMilliSecs = 10000
-BagItemEscalationMilliSecs = 25000
-[SecurityConfig.xml]
-slow-wt-conclusion-in-not-expecting-timer = 750
-default-heavy-wt-limit = 5000
-default-medium-wt-limit = 2000
-default-heavy-wt-tolerance = 200
-default-medium-wt-tolerance = 200
-default-light-wt-tolerance = 200
-[SecurityConfig.000]
-slow-wt-conclusion-in-not-expecting-timer = 1500
-default-heavy-wt-limit = 1554
-default-medium-wt-limit = 0443
-default-heavy-wt-tolerance = 828
-default-medium-wt-tolerance = 500
-default-light-wt-tolerance = 500
 [ConfigEntity-AllLanesCommon.xml]
 TransPolicy.Tare.1.TareWt = 661
 TransPolicy.Tare.2.TareWt = 0

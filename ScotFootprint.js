@@ -22,11 +22,13 @@ const DIR_DD7 = 'C:\\Diags\\Morrisons DeepDive\\DD7'
 const DIR_DD8 = 'C:\\Diags\\Morrisons DeepDive\\DD8'
 const DIR_DD9 = 'C:\\Diags\\Morrisons DeepDive\\DD9'
 const DIR_DD8_1 = 'C:\\Diags\\Morrisons DeepDive\\DD8\\20230331'
-const DIR_MINIDIAGS = 'C:\\Diags\\TakeMiniDiag\\minidiag'
+//const DIR_MINIDIAGS = 'C:\\Diags\\TakeMiniDiag\\minidiag'
 const DIR_GETCONFIG = 'C:\\Diags\\Morrisons DeepDive\\UWIDiag\\GetSettings'
+const DIR_MINIDIAGS = 'C:\\Diags\\Morrisons DeepDive\\UWIDiag\\From Paul Dalby\\Mini_Diags'
+const DIR_234 = 'C:\\Diags\\Morrisons DeepDive\\UWIDiag\\From Paul Dalby\\234'
 
 //Current filters
-const CURRENT_DIAG_FOLDER = DIR_GETCONFIG
+const CURRENT_DIAG_FOLDER = DIR_234
 const BUILD_MATCH = BUILD_DD8 //Filter diags from specific build only, specify empty string if checking regardless of build
 const g_bCheckPreviousBuildData = false //check data before current build?
 const g_AttendantClearedOnly = true //list only states that are cleared by attendant
@@ -36,11 +38,13 @@ const UNEXPECTEDINCREASE_COUNT_THRESHOLD = 1
 
 //Start-Main
 //******************************************* 
-helpers.Init_StateName_ID()
+console.log('+Start')
+//helpers.Init_StateName_ID()
 //GetScoFootprints()
 //GetUnexpectedIncreases()
 //GetUnexpectedIncreases_MiniDiag()
-GetConfigSettings()
+//GetConfigSettings()
+GetItemSoldFromTraces()
 console.log('Done...');
 //End-Main
 
@@ -130,8 +134,119 @@ function GetConfigSettings() {
 
 }
 
+
+function GetItemSoldFromTraces() {
+    console.log('+GetItemSoldFromTraces')
+    let bDontLogDuplicateDiag = true
+    let occurrence = 0
+
+    helpers.GetFilesFromDirectory_SM(CURRENT_DIAG_FOLDER, files, 'Traces')
+
+    if (files.length > 0) {
+        let fileSave = 'ItemSold.txt'
+        let result = ''
+
+        //process files
+        let currentDiagName = ''
+        files.forEach(file => {
+            let diagName = helpers.GetDiagName(file)
+            if (currentDiagName !== diagName) {
+                //new diag
+                occurrence = 0
+                if (result !== '')
+                    result += '\n'
+
+                result += diagName + '\n'
+                currentDiagName = diagName
+
+                console.log(currentDiagName)
+            }
+            else {
+                //continuation
+            }
+
+            //read file content
+            let data = helpers.ReadFileAsString(file).split('\n')
+
+            //check each line for occurrence
+            let item_description = ''
+            let time_start = ''
+            let time_end = ''
+
+            if (data.length > 0) {
+                data.forEach(line => {
+                    if (helpers.IsMatchCriteria_ItemSold(line)) {
+                        occurrence++
+                        item_description = ''
+
+                        //start scan?
+                        if (line.indexOf('+isBarcodeValidOperatorPassword') > 0) {
+                            time_start = helpers.GetDateTimeFromLine_ticks(line)
+
+                            //add new line
+                            result += '\n'
+                        }
+
+                        //Get end time if receive ITEM_SOLD
+                        else if (line.indexOf('!!!! TB State id=15, name:ITEMSOLD') > 0 && time_start !== '') {
+                            time_end = helpers.GetDateTimeFromLine_ticks(line)
+                        }
+
+                        if (line.indexOf('TBGetItemDetails--ItemDetail:') > 0) {
+                            //get item description
+                            let i = line.indexOf('szDescription:')
+                            if (i > 0) {
+                                //get the description
+                                let ii = line.indexOf(';', i + 1)
+                                if (ii > i) {
+                                    item_description = line.substring(i + 14, ii)
+
+                                    if (time_start !== '' && time_end !== '') {
+                                        //insert time from scan to ITEM_SOLD
+                                        //item_description += ` Time ${time_start} - ${time_end} [${parseInt(time_end) - parseInt(time_start)}]`
+                                        item_description += ` - [${parseInt(time_end) - parseInt(time_start)}]`
+                                        time_start = ''
+                                        time_end = ''
+                                    }
+                                }
+                            }
+                        }
+                        else if (line.indexOf('TBEnterItem--ItemDetail:') > 0) {
+                            //truncate line to not clutter result
+                            let i = line.indexOf('io.lWeightEntered:')
+                            line = line.substring(0, i).trim()
+                        }
+                        else {
+                            line = line.trim()
+                        }
+
+                        if (item_description !== '') {
+                            line = `Item Description: ${item_description}`
+                            item_description = ''
+                        }
+
+                        if (bDontLogDuplicateDiag && occurrence >= 2) {
+                            // let diagname = ''.padEnd(27, ' ')
+                            // result += `    ,   ,${diagname},${line}\n`
+                            result += `${line}\n`
+                        }
+                        else {
+                            //result += `${store},${lane},${currentDiagName},${line}\n`
+                            result += `${line}\n`
+                        }
+                    }
+                })
+                //result += '\n'
+            }
+        })
+
+        FS.writeFileSync(fileSave, result)
+    }
+    console.log('-GetItemSoldFromTraces')
+}
+
 function GetUnexpectedIncreases_MiniDiag() {
-    helpers.GetFilesFromDirectory_SM(CURRENT_DIAG_FOLDER, files)
+    helpers.GetFilesFromDirectory_SM(CURRENT_DIAG_FOLDER, files, 'SM')
 
     if (files.length > 0) {
         let fileSave = 'WeightIncreaseExceptions.txt'
@@ -563,9 +678,6 @@ function GetLastNStates(lines, nStates) {
 function GetLastInstalledApp(fileDir) {
     let file = fileDir + '\\InstallHistory.log'
 }
-
-
-
 
 function convertDateStringToUTCDate(sdate) {
     var d = new Date(sdate)
