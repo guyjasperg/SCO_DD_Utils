@@ -1,0 +1,9 @@
+Store,Lane,DateTime,Foorprint,Diag,Build
+4,117,04.27.2022-14.46.26,"SMOutOfService2,SMAttract,SMLaneClosed,SMAttract,SMSmAuthorization",WMM0004POS117-230427-143928,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+4,117,04.28.2022-01.44.05,"SMAttract,SMLaneClosed,SMOutOfService2,SMAttract,SMLaneClosed",WMM0004POS117-230428-014126,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+4,117,04.29.2022-06.31.10,"SMAttract,SMLaneClosed,SMOutOfService2,SMAttract,SMLaneClosed",WMM0004POS117-230429-062804,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+137,116,04.26.2022-08.52.46,"SMTakeReceipt,SMThankYou,SMTakeReceipt,SMThankYou,SMAttract",WMM0137POS116-230426-100642,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+297,116,05.04.2022-12.28.05,"SMSystemMessage4,SMSmAssistMenu,SMScanAndBag,SMProduceFavorites,SMProcessing",WMM0297POS116-230504-140318,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+297,116,05.04.2022-12.28.05,"SMSystemMessage4,SMSmAssistMenu,SMScanAndBag,SMProduceFavorites,SMProcessing",WMM0297POS116-230504-142814,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+297,116,05.09.2022-11.50.29,"[error],SMOutOfService2,SMAttract,SMLaneClosed,SMAttract",WMM0297POS116-230509-131214,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33
+575,202,05.10.2022-01.00.46,"SMLaneClosed,SMOutOfService,SMOutOfService2,SMAttract,SMLaneClosed",WMM0575POS202-230510-005851,Morrisons Lane Full Morrisons_LaneSetup-ADK622Release230209E1.1.0.0.33

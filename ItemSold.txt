@@ -1,0 +1,564 @@
+WMM0234POS117-230510-111108
+1625871) 05/10 11:00:38;0058368663 SM-SMtb@6270, 4, TB item sale <9002490206215>, 1, 0
+1625882) 05/10 11:00:38;0058368663 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:9002490206215; io.fVoid:1; io.lQuantityEntered:1;
+1626196) 05/10 11:00:40;0058371393 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: RED BULL SUGARFREE
+1626209) 05/10 11:00:41;0058371393 079C> SM-SMtb@4935 Adjusted Items Entry ID:1
+1626300) 05/10 11:00:41;0058371564 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1627933) 05/10 11:00:49;0058379645 079C> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=94;disposition[text]=outstanding;exception-type[text]=unexpected-decrease;metric[text]=y;weight-delta[text]=0.370;weight-actual-notconverted[text]=0.-150;trace-description[text]=Decrease not allowed
+1628918) 05/10 11:00:55;0058386884 079C> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=94;disposition[text]=outstanding;exception-type[text]=unexpected-decrease;metric[text]=y;weight-delta[text]=0.370;weight-actual-notconverted[text]=0.-150;trace-description[text]=Decrease not allowed
+
+1629689) 05/10 11:01:42;0058434495 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010357117639~5010357117639~104>
+1630293) 05/10 11:01:43;0058435696 SM-SMtb@6270, 4, TB item sale <F5010357117639>, 0, 0
+1630311) 05/10 11:01:44;0058435712 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010357117639; io.fVoid:0; io.lQuantityEntered:0;
+1630472) 05/10 11:01:46;0058437724 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: TAYLORS COFFEE - [3229]
+1630485) 05/10 11:01:46;0058437724 079C> SM-SMtb@4935 Adjusted Items Entry ID:1
+1630637) 05/10 11:01:46;0058438068 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1630669) 05/10 11:01:46;0058438645 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1630992) 05/10 11:01:47;0058439331 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F0615357120525~0615357120525~104>
+1631018) 05/10 11:01:47;0058439362 SM-SMtb@6270, 4, TB item sale <F0615357120525>, 0, 0
+1631036) 05/10 11:01:47;0058439394 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:0615357120525; io.fVoid:0; io.lQuantityEntered:0;
+1631137) 05/10 11:01:49;0058441032 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: TAYLORS COFFEE - [1701]
+1631150) 05/10 11:01:49;0058441047 079C> SM-SMtb@4935 Adjusted Items Entry ID:2
+1631337) 05/10 11:01:50;0058441843 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1631369) 05/10 11:01:50;0058442061 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1631716) 05/10 11:01:51;0058443200 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F0228609002250~0228609002250~104>
+1631742) 05/10 11:01:51;0058443216 SM-SMtb@6270, 4, TB item sale <F0228609002250>, 0, 0
+1631760) 05/10 11:01:51;0058443247 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:0228609002250; io.fVoid:0; io.lQuantityEntered:0;
+1631887) 05/10 11:01:53;0058445041 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CHEESE+ONION ROLL - [1841]
+1631900) 05/10 11:01:53;0058445041 079C> SM-SMtb@4935 Adjusted Items Entry ID:4
+1632029) 05/10 11:01:53;0058445368 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1632061) 05/10 11:01:53;0058445384 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1632381) 05/10 11:01:55;0058447615 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F0277541001258~0277541001258~104>
+1632407) 05/10 11:01:55;0058447646 SM-SMtb@6270, 4, TB item sale <F0277541001258>, 0, 0
+1632425) 05/10 11:01:55;0058447693 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:0277541001258; io.fVoid:0; io.lQuantityEntered:0;
+1632526) 05/10 11:01:57;0058449425 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CROISSANTS - [1810]
+1632539) 05/10 11:01:57;0058449440 079C> SM-SMtb@4935 Adjusted Items Entry ID:5
+1632660) 05/10 11:01:57;0058449690 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+1632669) 05/10 11:01:58;0058449721 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+
+1633020) 05/10 11:02:00;0058452701 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525093895~5010525093895~104>
+1633046) 05/10 11:02:01;0058452732 SM-SMtb@6270, 4, TB item sale <F5010525093895>, 0, 0
+1633064) 05/10 11:02:01;0058452810 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525093895; io.fVoid:0; io.lQuantityEntered:0;
+1633165) 05/10 11:02:02;0058454557 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M SMALL BANANAS - [1856]
+1633178) 05/10 11:02:02;0058454573 079C> SM-SMtb@4935 Adjusted Items Entry ID:6
+1633307) 05/10 11:02:03;0058454853 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1633339) 05/10 11:02:03;0058454900 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1633659) 05/10 11:02:04;0058456429 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251784432~5010251784432~104>
+1633685) 05/10 11:02:04;0058456460 SM-SMtb@6270, 4, TB item sale <F5010251784432>, 0, 0
+1633703) 05/10 11:02:04;0058456491 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251784432; io.fVoid:0; io.lQuantityEntered:0;
+1633804) 05/10 11:02:06;0058458285 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M ROYAL GALA APPLES - [1856]
+1633817) 05/10 11:02:06;0058458301 079C> SM-SMtb@4935 Adjusted Items Entry ID:7
+1633946) 05/10 11:02:06;0058458597 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1633978) 05/10 11:02:06;0058458707 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1634298) 05/10 11:02:08;0058460064 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251450252~5010251450252~104>
+1634324) 05/10 11:02:08;0058460111 SM-SMtb@6270, 4, TB item sale <F5010251450252>, 0, 0
+1634342) 05/10 11:02:08;0058460173 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251450252; io.fVoid:0; io.lQuantityEntered:0;
+1634443) 05/10 11:02:10;0058462107 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CLEAR HONEY SQZ - [2043]
+1634456) 05/10 11:02:10;0058462123 079C> SM-SMtb@4935 Adjusted Items Entry ID:8
+1634585) 05/10 11:02:10;0058462497 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1634617) 05/10 11:02:10;0058462575 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1639668) 05/10 11:03:28;0058538595 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F8001090731982~8001090731982~104>
+1640261) 05/10 11:03:28;0058539219 SM-SMtb@6270, 4, TB item sale <F8001090731982>, 0, 0
+1640279) 05/10 11:03:28;0058539219 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:8001090731982; io.fVoid:0; io.lQuantityEntered:0;
+1640478) 05/10 11:03:30;0058540638 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: DAZ ALL IN 1 40 CAPS - [2043]
+1640491) 05/10 11:03:30;0058540638 079C> SM-SMtb@4935 Adjusted Items Entry ID:1
+1640612) 05/10 11:03:30;0058540716 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+1640923) 05/10 11:03:30;0058541059 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+
+1640975) 05/10 11:03:30;0058541122 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251716624~5010251716624~104>
+1641001) 05/10 11:03:30;0058541137 SM-SMtb@6270, 4, TB item sale <F5010251716624>, 0, 0
+1641019) 05/10 11:03:30;0058541153 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251716624; io.fVoid:0; io.lQuantityEntered:0;
+1641172) 05/10 11:03:32;0058542541 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CRINKLE CUT CHIPS - [1419]
+1641185) 05/10 11:03:32;0058542541 079C> SM-SMtb@4935 Adjusted Items Entry ID:2
+1641314) 05/10 11:03:32;0058542619 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+
+1641544) 05/10 11:03:57;0058567751 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <B3412 0075577~412 0075577~110>
+1641666) 05/10 11:03:57;0058568110 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1642116) 05/10 11:04:15;0058585629 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251529743~5010251529743~104>
+1642142) 05/10 11:04:15;0058585645 SM-SMtb@6270, 4, TB item sale <F5010251529743>, 0, 0
+1642160) 05/10 11:04:15;0058585660 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251529743; io.fVoid:0; io.lQuantityEntered:0;
+1642228) 05/10 11:04:15;0058586050 079C> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=95;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=1.200;weight-actual-notconverted[text]=4.340;trace-description[text]=Increase not allowed
+1642307) 05/10 11:04:16;0058587017 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M FABRIC CONDITIONER - [1388]
+1642320) 05/10 11:04:16;0058587017 079C> SM-SMtb@4935 Adjusted Items Entry ID:3
+1642496) 05/10 11:04:16;0058587236 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1642560) 05/10 11:04:18;0058589045 079C> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=96;disposition[text]=outstanding;item-id[text]=3;exception-type[text]=mismatched;tolerance[text]=828;weight-2x[text]=true;multi-pack-item[text]=false;metric[text]=y;weight-delta[text]=2.520;weight-actual[text]=2.520;weight-actual-notconverted[text]=7.250;weight-expected[text]=1.310;weight-expected-notconverted[text]=2.898;tolerance[text]=828;tolerance-type[text]=default;item-description[text]=M FABRIC CONDITIONER;trace-description[text]=Weight not valid for item
+1642645) 05/10 11:04:21;0058591557 079C> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=95;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=1.200;weight-actual-notconverted[text]=4.340;trace-description[text]=Increase not allowed;clear-rap-approval[text]=true
+1642859) 05/10 11:04:21;0058591682 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1643325) 05/10 11:04:33;0058604115 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <B3412 0075577~412 0075577~110>
+1643592) 05/10 11:04:34;0058604645 079C> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=97;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=1.330;weight-actual-notconverted[text]=7.280;trace-description[text]=Increase not allowed
+
+1643944) 05/10 11:04:41;0058612258 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <B3412 0075577~412 0075577~110>
+1644043) 05/10 11:04:42;0058612633 079C> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=97;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=1.330;weight-actual-notconverted[text]=7.280;trace-description[text]=Increase not allowed
+1644518) 05/10 11:04:42;0058613241 079C> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=98;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=1.340;weight-actual-notconverted[text]=7.300;trace-description[text]=Increase not allowed
+
+1644813) 05/10 11:04:48;0058619388 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <B3412 0075577~412 0075577~110>
+1644912) 05/10 11:04:49;0058619731 079C> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=98;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=1.340;weight-actual-notconverted[text]=7.300;trace-description[text]=Increase not allowed
+
+1645457) 05/10 11:04:53;0058624348 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525210223~5010525210223~104>
+1645483) 05/10 11:04:53;0058624364 SM-SMtb@6270, 4, TB item sale <F5010525210223>, 0, 0
+1645501) 05/10 11:04:53;0058624380 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525210223; io.fVoid:0; io.lQuantityEntered:0;
+1645628) 05/10 11:04:55;0058625893 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: PORK SHOULDER STEAKS - [1545]
+1645641) 05/10 11:04:55;0058625893 079C> SM-SMtb@4935 Adjusted Items Entry ID:4
+1645770) 05/10 11:04:55;0058626049 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1645802) 05/10 11:04:56;0058627203 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1646149) 05/10 11:04:59;0058629621 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525249346~5010525249346~104>
+1646175) 05/10 11:04:59;0058629637 SM-SMtb@6270, 4, TB item sale <F5010525249346>, 0, 0
+1646193) 05/10 11:04:59;0058629652 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525249346; io.fVoid:0; io.lQuantityEntered:0;
+1646294) 05/10 11:05:00;0058630994 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CHICKEN FILLETS - [1373]
+1646307) 05/10 11:05:00;0058630994 079C> SM-SMtb@4935 Adjusted Items Entry ID:5
+1646459) 05/10 11:05:00;0058631103 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1646491) 05/10 11:05:01;0058632382 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1646811) 05/10 11:05:02;0058632850 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525210261~5010525210261~104>
+1646837) 05/10 11:05:02;0058632850 SM-SMtb@6270, 4, TB item sale <F5010525210261>, 0, 0
+1646855) 05/10 11:05:02;0058632866 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525210261; io.fVoid:0; io.lQuantityEntered:0;
+1647008) 05/10 11:05:03;0058634145 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: BEEF BURGER - [1295]
+1647021) 05/10 11:05:03;0058634161 079C> SM-SMtb@4935 Adjusted Items Entry ID:6
+1647185) 05/10 11:05:04;0058634863 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1647217) 05/10 11:05:04;0058634988 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1647537) 05/10 11:05:08;0058638966 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525087801~5010525087801~104>
+1647563) 05/10 11:05:08;0058638966 SM-SMtb@6270, 4, TB item sale <F5010525087801>, 0, 0
+1647581) 05/10 11:05:08;0058638981 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525087801; io.fVoid:0; io.lQuantityEntered:0;
+1647682) 05/10 11:05:09;0058640432 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CHICKEN WINGS - [1466]
+1647695) 05/10 11:05:09;0058640432 079C> SM-SMtb@4935 Adjusted Items Entry ID:8
+1647824) 05/10 11:05:10;0058640573 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1647856) 05/10 11:05:11;0058642242 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1648176) 05/10 11:05:15;0058645877 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5410126116953~5410126116953~104>
+1648202) 05/10 11:05:15;0058645892 SM-SMtb@6270, 4, TB item sale <F5410126116953>, 0, 0
+1648220) 05/10 11:05:15;0058645908 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5410126116953; io.fVoid:0; io.lQuantityEntered:0;
+1648321) 05/10 11:05:16;0058647234 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: LOTUS BISCOFF SPREAD - [1357]
+1648334) 05/10 11:05:16;0058647234 079C> SM-SMtb@4935 Adjusted Items Entry ID:9
+1648463) 05/10 11:05:17;0058647483 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1648495) 05/10 11:05:17;0058648388 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1648815) 05/10 11:05:20;0058651352 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5900998006464~5900998006464~104>
+1648841) 05/10 11:05:20;0058651368 SM-SMtb@6270, 4, TB item sale <F5900998006464>, 0, 0
+1648859) 05/10 11:05:20;0058651383 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5900998006464; io.fVoid:0; io.lQuantityEntered:0;
+1648960) 05/10 11:05:22;0058652694 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: ORIGIN/SOURCE SHOWER - [1342]
+1648973) 05/10 11:05:22;0058652694 079C> SM-SMtb@4935 Adjusted Items Entry ID:10
+1649137) 05/10 11:05:22;0058653318 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1649169) 05/10 11:05:24;0058654472 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1649489) 05/10 11:05:29;0058659698 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251679820~5010251679820~104>
+1649515) 05/10 11:05:29;0058659714 SM-SMtb@6270, 4, TB item sale <F5010251679820>, 0, 0
+1649533) 05/10 11:05:29;0058659729 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251679820; io.fVoid:0; io.lQuantityEntered:0;
+1649634) 05/10 11:05:30;0058661040 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M ZIP FOOD BAGS - [1342]
+1649647) 05/10 11:05:30;0058661040 079C> SM-SMtb@4935 Adjusted Items Entry ID:12
+1649776) 05/10 11:05:30;0058661133 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1649808) 05/10 11:05:31;0058661633 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1650155) 05/10 11:05:34;0058664831 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251460862~5010251460862~104>
+1650181) 05/10 11:05:34;0058664846 SM-SMtb@6270, 4, TB item sale <F5010251460862>, 0, 0
+1650199) 05/10 11:05:34;0058664846 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251460862; io.fVoid:0; io.lQuantityEntered:0;
+1650326) 05/10 11:05:35;0058666203 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: 'M'LINGUINE - [1372]
+1650339) 05/10 11:05:35;0058666203 079C> SM-SMtb@4935 Adjusted Items Entry ID:13
+1650468) 05/10 11:05:35;0058666391 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1650500) 05/10 11:05:36;0058666905 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1650820) 05/10 11:05:36;0058667311 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251460862~5010251460862~104>
+1650846) 05/10 11:05:36;0058667327 SM-SMtb@6270, 4, TB item sale <F5010251460862>, 0, 0
+1650864) 05/10 11:05:36;0058667342 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251460862; io.fVoid:0; io.lQuantityEntered:0;
+1650965) 05/10 11:05:38;0058668622 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: 'M'LINGUINE - [1311]
+1650978) 05/10 11:05:38;0058668622 079C> SM-SMtb@4935 Adjusted Items Entry ID:14
+1651099) 05/10 11:05:38;0058669339 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+1651444) 05/10 11:05:39;0058669604 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+
+1651494) 05/10 11:05:44;0058674752 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F8410076471178~8410076471178~104>
+1651520) 05/10 11:05:44;0058674768 SM-SMtb@6270, 4, TB item sale <F8410076471178>, 0, 0
+1651538) 05/10 11:05:44;0058674768 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:8410076471178; io.fVoid:0; io.lQuantityEntered:0;
+1651639) 05/10 11:05:45;0058676125 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: OEP FAJITA KIT - [1373]
+1651652) 05/10 11:05:45;0058676125 079C> SM-SMtb@4935 Adjusted Items Entry ID:16
+1651781) 05/10 11:05:45;0058676328 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1651813) 05/10 11:05:47;0058678122 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1652133) 05/10 11:06:00;0058691273 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251784432~5010251784432~104>
+1652159) 05/10 11:06:00;0058691288 SM-SMtb@6270, 4, TB item sale <F5010251784432>, 0, 0
+1652177) 05/10 11:06:00;0058691304 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251784432; io.fVoid:0; io.lQuantityEntered:0;
+1652278) 05/10 11:06:02;0058692739 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M ROYAL GALA APPLES - [1466]
+1652291) 05/10 11:06:02;0058692739 079C> SM-SMtb@4935 Adjusted Items Entry ID:17
+1652420) 05/10 11:06:02;0058692880 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1652452) 05/10 11:06:04;0058694783 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1652772) 05/10 11:06:05;0058696109 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5054563118950~5054563118950~104>
+1652798) 05/10 11:06:05;0058696124 SM-SMtb@6270, 4, TB item sale <F5054563118950>, 0, 0
+1652816) 05/10 11:06:05;0058696140 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5054563118950; io.fVoid:0; io.lQuantityEntered:0;
+1652917) 05/10 11:06:07;0058697560 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: CORSODYL TOOTHPASTE - [1451]
+1652930) 05/10 11:06:07;0058697575 079C> SM-SMtb@4935 Adjusted Items Entry ID:18
+1653082) 05/10 11:06:07;0058697747 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1653114) 05/10 11:06:08;0058698636 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1653434) 05/10 11:06:08;0058699057 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <FF50963539~50963539~103>
+1653460) 05/10 11:06:08;0058699057 SM-SMtb@6270, 4, TB item sale <FF50963539>, 0, 0
+1653478) 05/10 11:06:08;0058699073 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:50963539; io.fVoid:0; io.lQuantityEntered:0;
+1653605) 05/10 11:06:09;0058700383 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: BBQ SEASONING - [1326]
+1653618) 05/10 11:06:09;0058700383 079C> SM-SMtb@4935 Adjusted Items Entry ID:19
+1653747) 05/10 11:06:10;0058700617 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1653779) 05/10 11:06:10;0058701163 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1654126) 05/10 11:06:12;0058703160 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5000225055309~5000225055309~104>
+1654152) 05/10 11:06:12;0058703176 SM-SMtb@6270, 4, TB item sale <F5000225055309>, 0, 0
+1654170) 05/10 11:06:12;0058703176 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5000225055309; io.fVoid:0; io.lQuantityEntered:0;
+1654271) 05/10 11:06:14;0058704627 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: SCHWARTZ SEASONING - [1467]
+1654284) 05/10 11:06:14;0058704627 079C> SM-SMtb@4935 Adjusted Items Entry ID:20
+1654471) 05/10 11:06:14;0058705297 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1654555) 05/10 11:06:18;0058708948 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1655120) 05/10 11:06:39;0058730414 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251737704~5010251737704~104>
+1655146) 05/10 11:06:39;0058730429 SM-SMtb@6270, 4, TB item sale <F5010251737704>, 0, 0
+1655164) 05/10 11:06:39;0058730429 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251737704; io.fVoid:0; io.lQuantityEntered:0;
+1655317) 05/10 11:06:41;0058731708 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M READY TO EAT MANGO - [1294]
+1655330) 05/10 11:06:41;0058731708 079C> SM-SMtb@4935 Adjusted Items Entry ID:22
+1655459) 05/10 11:06:41;0058731802 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1655491) 05/10 11:06:42;0058732785 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1655811) 05/10 11:06:44;0058735437 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251731177~5010251731177~104>
+1655837) 05/10 11:06:44;0058735452 SM-SMtb@6270, 4, TB item sale <F5010251731177>, 0, 0
+1655855) 05/10 11:06:45;0058735499 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251731177; io.fVoid:0; io.lQuantityEntered:0;
+1656008) 05/10 11:06:46;0058736794 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M EAS/PEEL SWEETCLEM - [1357]
+1656021) 05/10 11:06:46;0058736794 079C> SM-SMtb@4935 Adjusted Items Entry ID:23
+1656150) 05/10 11:06:46;0058737012 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1656182) 05/10 11:06:47;0058738416 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1656504) 05/10 11:06:48;0058738822 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5000101507786~5000101507786~104>
+1656530) 05/10 11:06:48;0058738838 SM-SMtb@6270, 4, TB item sale <F5000101507786>, 0, 0
+1656548) 05/10 11:06:48;0058738869 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5000101507786; io.fVoid:0; io.lQuantityEntered:0;
+1656649) 05/10 11:06:49;0058740257 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: ORIGINAL BODYWASH - [1435]
+1656662) 05/10 11:06:49;0058740257 079C> SM-SMtb@4935 Adjusted Items Entry ID:24
+1656826) 05/10 11:06:50;0058740897 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1656858) 05/10 11:06:50;0058741458 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1657178) 05/10 11:06:52;0058742628 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251593188~5010251593188~104>
+1657204) 05/10 11:06:52;0058742644 SM-SMtb@6270, 4, TB item sale <F5010251593188>, 0, 0
+1657222) 05/10 11:06:52;0058742660 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251593188; io.fVoid:0; io.lQuantityEntered:0;
+1657323) 05/10 11:06:53;0058744079 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M FRUIT JUICE - [1451]
+1657336) 05/10 11:06:53;0058744079 079C> SM-SMtb@4935 Adjusted Items Entry ID:26
+1657465) 05/10 11:06:53;0058744360 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1657497) 05/10 11:06:54;0058745343 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+
+1657817) 05/10 11:06:57;0058747683 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5000101346170~5000101346170~104>
+1657843) 05/10 11:06:57;0058747698 SM-SMtb@6270, 4, TB item sale <F5000101346170>, 0, 0
+1657861) 05/10 11:06:57;0058747714 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5000101346170; io.fVoid:0; io.lQuantityEntered:0;
+1657962) 05/10 11:06:58;0058749087 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: CAREX HANDWASH - [1404]
+1657975) 05/10 11:06:58;0058749087 079C> SM-SMtb@4935 Adjusted Items Entry ID:27
+1658165) 05/10 11:06:59;0058749711 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1658197) 05/10 11:07:00;0058751146 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+1659095) 05/10 11:07:07;0058757667 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525255798; io.fVoid:0; io.lQuantityEntered:1;
+1659188) 05/10 11:07:09;0058760178 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M BAG FOR LIFE
+1659201) 05/10 11:07:09;0058760178 079C> SM-SMtb@4935 Adjusted Items Entry ID:29
+1659894) 05/10 11:07:10;0058760584 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1660305) 05/10 11:07:10;0058761411 079C> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=99;disposition[text]=outstanding;exception-type[text]=unexpected-decrease;metric[text]=y;weight-delta[text]=0.060;weight-actual-notconverted[text]=29.080;trace-description[text]=Decrease not allowed
+
+1662236) 05/10 11:08:08;0058818866 079C> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251488361~5010251488361~104>
+1662262) 05/10 11:08:08;0058818866 SM-SMtb@6270, 4, TB item sale <F5010251488361>, 0, 0
+1662280) 05/10 11:08:08;0058818897 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251488361; io.fVoid:0; io.lQuantityEntered:0;
+1662407) 05/10 11:08:09;0058820364 079C> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M MIXED VEGETABLES - [1498]
+1662420) 05/10 11:08:09;0058820364 079C> SM-SMtb@4935 Adjusted Items Entry ID:30
+1662542) 05/10 11:08:10;0058820582 079C> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+1662574) 05/10 11:08:11;0058821892 079C> -SecMgri@276  PostSecMgr SmOnItemOK
+1662598) 05/10 11:08:11;0058821908 079C> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=99;disposition[text]=outstanding;exception-type[text]=unexpected-decrease;metric[text]=y;weight-delta[text]=0.060;weight-actual-notconverted[text]=29.080;trace-description[text]=Decrease not allowed
+1664636) 05/10 11:08:16;0058826807 079C> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=100;disposition[text]=outstanding;exception-type[text]=unexpected-decrease;metric[text]=y;weight-delta[text]=0.040;weight-actual-notconverted[text]=31.310;trace-description[text]=Decrease not allowed
+1667223) 05/10 11:10:32;0058963245 079C> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=100;disposition[text]=outstanding;exception-type[text]=unexpected-decrease;metric[text]=y;weight-delta[text]=0.040;weight-actual-notconverted[text]=31.310;trace-description[text]=Decrease not allowed
+
+WMM0234POS120-230510-114552
+245942) 05/10 11:37:13;0004453656 SM-SMtb@6270, 4, TB item sale <F5010251702207>, 0, 0
+245960) 05/10 11:37:13;0004453672 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251702207; io.fVoid:0; io.lQuantityEntered:0;
+246038) 05/10 11:37:14;0004454561 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CHOCOLATE ECLAIRS
+246051) 05/10 11:37:14;0004454561 0A24> SM-SMtb@4935 Adjusted Items Entry ID:2
+246181) 05/10 11:37:14;0004454670 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+246258) 05/10 11:37:16;0004455778 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+246578) 05/10 11:37:18;0004457853 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251702207~5010251702207~104>
+246604) 05/10 11:37:18;0004457868 SM-SMtb@6270, 4, TB item sale <F5010251702207>, 0, 0
+246622) 05/10 11:37:18;0004457868 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251702207; io.fVoid:0; io.lQuantityEntered:0;
+246700) 05/10 11:37:18;0004458695 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CHOCOLATE ECLAIRS - [842]
+246713) 05/10 11:37:18;0004458695 0A24> SM-SMtb@4935 Adjusted Items Entry ID:3
+246865) 05/10 11:37:19;0004458789 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+246920) 05/10 11:37:20;0004459803 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+247240) 05/10 11:37:21;0004461129 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251528623~5010251528623~104>
+247266) 05/10 11:37:21;0004461144 SM-SMtb@6270, 4, TB item sale <F5010251528623>, 0, 0
+247284) 05/10 11:37:21;0004461144 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251528623; io.fVoid:0; io.lQuantityEntered:0;
+247362) 05/10 11:37:22;0004462049 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CHOC FLAV MILK - [920]
+247375) 05/10 11:37:22;0004462049 0A24> SM-SMtb@4935 Adjusted Items Entry ID:4
+247585) 05/10 11:37:22;0004462517 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+247617) 05/10 11:37:23;0004463485 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+247937) 05/10 11:37:24;0004464608 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251746645~5010251746645~104>
+247963) 05/10 11:37:24;0004464608 SM-SMtb@6270, 4, TB item sale <F5010251746645>, 0, 0
+247981) 05/10 11:37:24;0004464608 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251746645; io.fVoid:0; io.lQuantityEntered:0;
+248085) 05/10 11:37:25;0004465388 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M SNACK APPLE+GRAPE - [780]
+248098) 05/10 11:37:25;0004465388 0A24> SM-SMtb@4935 Adjusted Items Entry ID:6
+248227) 05/10 11:37:25;0004465450 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+248383) 05/10 11:37:27;0004467182 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+248703) 05/10 11:37:29;0004468945 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251746645~5010251746645~104>
+248729) 05/10 11:37:29;0004468960 SM-SMtb@6270, 4, TB item sale <F5010251746645>, 0, 0
+248747) 05/10 11:37:29;0004468960 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251746645; io.fVoid:0; io.lQuantityEntered:0;
+248825) 05/10 11:37:30;0004469803 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M SNACK APPLE+GRAPE - [858]
+248838) 05/10 11:37:30;0004469803 0A24> SM-SMtb@4935 Adjusted Items Entry ID:7
+248990) 05/10 11:37:30;0004469896 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+249045) 05/10 11:37:30;0004470692 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+249365) 05/10 11:37:32;0004471893 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251746645~5010251746645~104>
+249391) 05/10 11:37:32;0004471909 SM-SMtb@6270, 4, TB item sale <F5010251746645>, 0, 0
+249409) 05/10 11:37:32;0004471909 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251746645; io.fVoid:0; io.lQuantityEntered:0;
+249487) 05/10 11:37:33;0004472720 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M SNACK APPLE+GRAPE - [827]
+249500) 05/10 11:37:33;0004472735 0A24> SM-SMtb@4935 Adjusted Items Entry ID:8
+249710) 05/10 11:37:33;0004473172 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+249742) 05/10 11:37:33;0004473640 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+250062) 05/10 11:37:35;0004475185 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251746645~5010251746645~104>
+250088) 05/10 11:37:35;0004475200 SM-SMtb@6270, 4, TB item sale <F5010251746645>, 0, 0
+250106) 05/10 11:37:35;0004475200 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251746645; io.fVoid:0; io.lQuantityEntered:0;
+250184) 05/10 11:37:36;0004476027 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M SNACK APPLE+GRAPE - [842]
+250197) 05/10 11:37:36;0004476027 0A24> SM-SMtb@4935 Adjusted Items Entry ID:10
+250349) 05/10 11:37:36;0004476136 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+250404) 05/10 11:37:37;0004476885 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+250724) 05/10 11:37:38;0004477837 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251746645~5010251746645~104>
+250750) 05/10 11:37:38;0004477837 SM-SMtb@6270, 4, TB item sale <F5010251746645>, 0, 0
+250768) 05/10 11:37:38;0004477852 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251746645; io.fVoid:0; io.lQuantityEntered:0;
+250846) 05/10 11:37:38;0004478663 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M SNACK APPLE+GRAPE - [826]
+250859) 05/10 11:37:38;0004478663 0A24> SM-SMtb@4935 Adjusted Items Entry ID:11
+250989) 05/10 11:37:39;0004478757 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+251066) 05/10 11:37:39;0004479381 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+251386) 05/10 11:37:40;0004480504 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251746645~5010251746645~104>
+251412) 05/10 11:37:40;0004480504 SM-SMtb@6270, 4, TB item sale <F5010251746645>, 0, 0
+251430) 05/10 11:37:40;0004480520 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251746645; io.fVoid:0; io.lQuantityEntered:0;
+251508) 05/10 11:37:41;0004481378 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M SNACK APPLE+GRAPE - [874]
+251521) 05/10 11:37:41;0004481378 0A24> SM-SMtb@4935 Adjusted Items Entry ID:12
+251731) 05/10 11:37:42;0004481799 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+251763) 05/10 11:37:42;0004482142 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+256068) 05/10 11:38:52;0004553076 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F0261638001498~0261638001498~104>
+256672) 05/10 11:38:53;0004553497 SM-SMtb@6270, 4, TB item sale <F0261638001498>, 0, 0
+256690) 05/10 11:38:53;0004553497 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:0261638001498; io.fVoid:0; io.lQuantityEntered:0;
+256851) 05/10 11:38:54;0004554589 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M BEST CHOC COOKIE - [1513]
+256864) 05/10 11:38:54;0004554589 0A24> SM-SMtb@4935 Adjusted Items Entry ID:1
+256993) 05/10 11:38:54;0004554698 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+257025) 05/10 11:38:55;0004555416 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+257346) 05/10 11:38:57;0004558006 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251867760~5010251867760~104>
+257372) 05/10 11:38:57;0004558006 SM-SMtb@6270, 4, TB item sale <F5010251867760>, 0, 0
+257390) 05/10 11:38:57;0004558021 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251867760; io.fVoid:0; io.lQuantityEntered:0;
+257520) 05/10 11:38:58;0004558942 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M WONKY STRAWBERRIES - [936]
+257533) 05/10 11:38:58;0004558942 0A24> SM-SMtb@4935 Adjusted Items Entry ID:2
+257663) 05/10 11:38:58;0004559020 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+257844) 05/10 11:38:59;0004560174 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+258164) 05/10 11:39:05;0004565899 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525067070~5010525067070~104>
+258190) 05/10 11:39:05;0004565915 SM-SMtb@6270, 4, TB item sale <F5010525067070>, 0, 0
+258208) 05/10 11:39:05;0004565915 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525067070; io.fVoid:0; io.lQuantityEntered:0;
+258338) 05/10 11:39:06;0004566835 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M WONKY GREEN GRAPES - [936]
+258351) 05/10 11:39:06;0004566835 0A24> SM-SMtb@4935 Adjusted Items Entry ID:3
+258526) 05/10 11:39:06;0004567038 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+258584) 05/10 11:39:08;0004568754 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+258933) 05/10 11:39:09;0004569472 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525176215~5010525176215~104>
+258959) 05/10 11:39:09;0004569487 SM-SMtb@6270, 4, TB item sale <F5010525176215>, 0, 0
+258977) 05/10 11:39:09;0004569487 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525176215; io.fVoid:0; io.lQuantityEntered:0;
+259130) 05/10 11:39:10;0004570345 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: COTTON WOOL PLEAT - [873]
+259143) 05/10 11:39:10;0004570345 0A24> SM-SMtb@4935 Adjusted Items Entry ID:4
+259272) 05/10 11:39:10;0004570439 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+259304) 05/10 11:39:11;0004571718 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+259624) 05/10 11:39:17;0004577693 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251543305~5010251543305~104>
+259650) 05/10 11:39:17;0004577708 SM-SMtb@6270, 4, TB item sale <F5010251543305>, 0, 0
+259668) 05/10 11:39:17;0004577708 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251543305; io.fVoid:0; io.lQuantityEntered:0;
+259769) 05/10 11:39:18;0004578598 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M ULTRA TOWELS - [905]
+259782) 05/10 11:39:18;0004578598 0A24> SM-SMtb@4935 Adjusted Items Entry ID:5
+259911) 05/10 11:39:18;0004578691 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+259943) 05/10 11:39:19;0004579612 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+260263) 05/10 11:39:20;0004580392 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251630814~5010251630814~104>
+260289) 05/10 11:39:20;0004580407 SM-SMtb@6270, 4, TB item sale <F5010251630814>, 0, 0
+260307) 05/10 11:39:20;0004580407 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251630814; io.fVoid:0; io.lQuantityEntered:0;
+260434) 05/10 11:39:20;0004581234 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M MLTD MILK BISCUITS - [842]
+260447) 05/10 11:39:20;0004581250 0A24> SM-SMtb@4935 Adjusted Items Entry ID:6
+260576) 05/10 11:39:21;0004581343 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+260660) 05/10 11:39:22;0004582981 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+260980) 05/10 11:39:26;0004586413 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5056484800075~5056484800075~104>
+261006) 05/10 11:39:26;0004586413 SM-SMtb@6270, 4, TB item sale <F5056484800075>, 0, 0
+261024) 05/10 11:39:26;0004586429 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5056484800075; io.fVoid:0; io.lQuantityEntered:0;
+261125) 05/10 11:39:27;0004587318 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: CLAYLANDS BOURBONS - [905]
+261138) 05/10 11:39:27;0004587334 0A24> SM-SMtb@4935 Adjusted Items Entry ID:7
+261267) 05/10 11:39:27;0004587427 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+261325) 05/10 11:39:28;0004588847 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+261699) 05/10 11:39:32;0004593043 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525065533~5010525065533~104>
+261725) 05/10 11:39:32;0004593043 SM-SMtb@6270, 4, TB item sale <F5010525065533>, 0, 0
+261743) 05/10 11:39:32;0004593059 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525065533; io.fVoid:0; io.lQuantityEntered:0;
+261870) 05/10 11:39:33;0004593948 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M BEEF MEATBALLS - [905]
+261883) 05/10 11:39:33;0004593948 0A24> SM-SMtb@4935 Adjusted Items Entry ID:8
+262012) 05/10 11:39:33;0004594073 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+262122) 05/10 11:39:35;0004595680 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+262497) 05/10 11:39:36;0004596585 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F7622201769932~7622201769932~104>
+262523) 05/10 11:39:36;0004596585 SM-SMtb@6270, 4, TB item sale <F7622201769932>, 0, 0
+262541) 05/10 11:39:36;0004596600 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:7622201769932; io.fVoid:0; io.lQuantityEntered:0;
+262619) 05/10 11:39:37;0004597411 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: CADBURY TIMEOUT - [826]
+262632) 05/10 11:39:37;0004597411 0A24> SM-SMtb@4935 Adjusted Items Entry ID:9
+262784) 05/10 11:39:37;0004597505 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+262865) 05/10 11:39:38;0004598815 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+263294) 05/10 11:39:46;0004606990 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5099556024689~5099556024689~104>
+263320) 05/10 11:39:46;0004607005 SM-SMtb@6270, 4, TB item sale <F5099556024689>, 0, 0
+263338) 05/10 11:39:46;0004607005 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5099556024689; io.fVoid:0; io.lQuantityEntered:0;
+263439) 05/10 11:39:47;0004607910 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: RUSTLER CHEESEBURGER - [920]
+263452) 05/10 11:39:47;0004607910 0A24> SM-SMtb@4935 Adjusted Items Entry ID:10
+263573) 05/10 11:39:47;0004608019 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+263918) 05/10 11:39:48;0004608425 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+
+263968) 05/10 11:39:50;0004610781 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5000168200941~5000168200941~104>
+263994) 05/10 11:39:50;0004610781 SM-SMtb@6270, 4, TB item sale <F5000168200941>, 0, 0
+264012) 05/10 11:39:50;0004610796 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5000168200941; io.fVoid:0; io.lQuantityEntered:0;
+264113) 05/10 11:39:51;0004611685 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: MCVITIES JAFFA CAKES - [904]
+264126) 05/10 11:39:51;0004611701 0A24> SM-SMtb@4935 Adjusted Items Entry ID:12
+264247) 05/10 11:39:51;0004611841 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+264592) 05/10 11:39:51;0004612247 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+264624) 05/10 11:39:53;0004614166 0A24> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=6;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=0.280;weight-actual-notconverted[text]=6.990;trace-description[text]=Increase not allowed
+265005) 05/10 11:40:02;0004622730 0A24> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=6;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=0.280;weight-actual-notconverted[text]=6.990;trace-description[text]=Increase not allowed;clear-rap-approval[text]=true
+265520) 05/10 11:40:07;0004628066 0A24> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=7;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=0.280;weight-actual-notconverted[text]=6.990;trace-description[text]=Increase not allowed
+265657) 05/10 11:40:11;0004631872 0A24> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=7;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=0.280;weight-actual-notconverted[text]=6.990;trace-description[text]=Increase not allowed;clear-rap-approval[text]=true
+266139) 05/10 11:40:37;0004657940 0A24> -SecMgri@290  PostSecMgr SmOnSecurityException sParms=exception-id[text]=8;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=0.270;weight-actual-notconverted[text]=6.990;trace-description[text]=Increase not allowed
+
+266529) 05/10 11:40:46;0004666707 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <B3412  114=<<~412  114=<<~110>
+266628) 05/10 11:40:46;0004666925 0A24> -SecMgri@298  PostSecMgr SmOnSecurityExceptionCleared sParms=exception-id[text]=8;disposition[text]=outstanding;exception-type[text]=unexpected-increase;metric[text]=y;weight-delta[text]=0.270;weight-actual-notconverted[text]=6.990;trace-description[text]=Increase not allowed
+
+267200) 05/10 11:40:48;0004668470 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251830443~5010251830443~104>
+267226) 05/10 11:40:48;0004668485 SM-SMtb@6270, 4, TB item sale <F5010251830443>, 0, 0
+267244) 05/10 11:40:48;0004668485 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251830443; io.fVoid:0; io.lQuantityEntered:0;
+267371) 05/10 11:40:49;0004669375 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CHOC CHIP COOKIES - [905]
+267384) 05/10 11:40:49;0004669375 0A24> SM-SMtb@4935 Adjusted Items Entry ID:14
+267513) 05/10 11:40:49;0004669531 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+267545) 05/10 11:40:50;0004670935 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+267919) 05/10 11:41:01;0004681418 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5099556024689~5099556024689~104>
+267945) 05/10 11:41:01;0004681434 SM-SMtb@6270, 4, TB item sale <F5099556024689>, 0, 0
+267963) 05/10 11:41:01;0004681434 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5099556024689; io.fVoid:0; io.lQuantityEntered:0;
+268064) 05/10 11:41:01;0004682214 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: RUSTLER CHEESEBURGER - [796]
+268077) 05/10 11:41:01;0004682229 0A24> SM-SMtb@4935 Adjusted Items Entry ID:15
+268241) 05/10 11:41:02;0004682682 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+268273) 05/10 11:41:03;0004683633 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+268701) 05/10 11:41:21;0004702244 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5099556024689~5099556024689~104>
+268727) 05/10 11:41:21;0004702244 SM-SMtb@6270, 4, TB item sale <F5099556024689>, 0, 0
+268745) 05/10 11:41:21;0004702260 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5099556024689; io.fVoid:0; io.lQuantityEntered:0;
+268846) 05/10 11:41:22;0004703102 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: RUSTLER CHEESEBURGER - [858]
+268859) 05/10 11:41:22;0004703102 0A24> SM-SMtb@4935 Adjusted Items Entry ID:17
+269023) 05/10 11:41:23;0004703695 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+269055) 05/10 11:41:24;0004705192 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+269649) 05/10 11:41:34;0004714896 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010251709473~5010251709473~104>
+269675) 05/10 11:41:34;0004714896 SM-SMtb@6270, 4, TB item sale <F5010251709473>, 0, 0
+269693) 05/10 11:41:34;0004714911 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010251709473; io.fVoid:0; io.lQuantityEntered:0;
+269794) 05/10 11:41:35;0004715754 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: M CHOC DIGESTIVES - [858]
+269807) 05/10 11:41:35;0004715754 0A24> SM-SMtb@4935 Adjusted Items Entry ID:19
+269936) 05/10 11:41:35;0004715910 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+269968) 05/10 11:41:36;0004717002 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+270288) 05/10 11:41:37;0004717797 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F7622300315283~7622300315283~104>
+270314) 05/10 11:41:37;0004717797 SM-SMtb@6270, 4, TB item sale <F7622300315283>, 0, 0
+270332) 05/10 11:41:37;0004717813 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:7622300315283; io.fVoid:0; io.lQuantityEntered:0;
+270433) 05/10 11:41:38;0004718687 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: OREO BISCUITS - [890]
+270446) 05/10 11:41:38;0004718687 0A24> SM-SMtb@4935 Adjusted Items Entry ID:20
+270610) 05/10 11:41:38;0004719139 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+270642) 05/10 11:41:39;0004719966 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+271016) 05/10 11:41:43;0004723476 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5000342000312~5000342000312~104>
+271042) 05/10 11:41:43;0004723491 SM-SMtb@6270, 4, TB item sale <F5000342000312>, 0, 0
+271060) 05/10 11:41:43;0004723507 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5000342000312; io.fVoid:0; io.lQuantityEntered:0;
+271213) 05/10 11:41:44;0004724396 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: FRIDGE RAIDERS - [920]
+271226) 05/10 11:41:44;0004724396 0A24> SM-SMtb@4935 Adjusted Items Entry ID:22
+271413) 05/10 11:41:44;0004724833 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+271471) 05/10 11:41:47;0004727750 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+273015) 05/10 11:43:17;0004818246 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <F5010525207605~5010525207605~104>
+273041) 05/10 11:43:17;0004818246 SM-SMtb@6270, 4, TB item sale <F5010525207605>, 0, 0
+273059) 05/10 11:43:17;0004818262 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:5010525207605; io.fVoid:0; io.lQuantityEntered:0;
+273160) 05/10 11:43:18;0004819151 0A24> SM-SMtb@867  !!!! TB State id=15, name:ITEMSOLD, nTBLastRealState changed to 15
+Item Description: MEDIUM WHITE CHEDDAR - [905]
+273173) 05/10 11:43:18;0004819151 0A24> SM-SMtb@4935 Adjusted Items Entry ID:24
+273302) 05/10 11:43:18;0004819276 0A24> SM-SMtb@867  !!!! TB State id=31, name:TOTAL, nTBLastRealState changed to 31
+273334) 05/10 11:43:20;0004821257 0A24> -SecMgri@276  PostSecMgr SmOnItemOK
+
+273654) 05/10 11:43:32;0004832396 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <B39826135802511650398~9826135802511650398~110>
+273680) 05/10 11:43:32;0004832396 SM-SMtb@6270, 4, TB item sale <B39826135802511650398>, 0, 0
+273698) 05/10 11:43:32;0004832411 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:9826135802511650398; io.fVoid:0; io.lQuantityEntered:0;
+﻿273815) 05/10 11:43:33;0004833566 SM-SMtb@4830, 4, TBGetItemDetails--ItemDetail: lExtPrice:0; lUnitPrice:0; lQuantity:0; lWeight:0; lDealQuantity:0; fCoupon:0; fVoid:0; fNeedQuantity:0; fNeedWeight:0; fRestricted:0; fVisualVerify:0; nRestrictedAge:0; szDescription:; szItemCode:9826135802511650398; fNeedPrice:0; fNotFound:0; fNotForSale:0; lScanCodeType:110; bLinkedItem:0 lDepartment:0, entryid:0; lRequireSecBagging:-1; lRequireSecSubstChk:-1; bSecurityTag:0; bZeroWeightItem:0, bPickListItem:0, szItemID:0 szAdditionalData:""
+273817) 05/10 11:43:33;0004833566 0A24> SM-SMtb@4935 Adjusted Items Entry ID:0
+
+274800) 05/10 11:44:06;0004866451 0A24> SM-SMStateBase@3890 +isBarcodeValidOperatorPassword  <B39826135802511650398~9826135802511650398~110>
+274826) 05/10 11:44:06;0004866451 SM-SMtb@6270, 4, TB item sale <B39826135802511650398>, 0, 0
+274843) 05/10 11:44:06;0004866466 SM-SMtb@6027, 4, TBEnterItem--ItemDetail: io.csItemCode:9826135802511650398; io.fVoid:0; io.lQuantityEntered:0;
